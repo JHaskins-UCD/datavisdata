@@ -1,0 +1,1149 @@
+t_state,t_county,t_fips,p_name,p_year,p_tnum,p_cap,t_conf_atr,t_conf_loc,xlong,ylat
+CA,Kern County,6029,251 Wind,1987,194,18.43,2,3,-118.360725,35.083778
+IA,Story County,19169,30 MW Iowa DG Portfolio,2017,10,30.0,3,3,-93.51371,42.019119
+MA,Barnstable County,25001,6th Space Warning Squadron,2013,2,3.36,3,3,-70.541801,41.752491
+IA,Story County,19169,AG Land 1,2012,1,1.6,3,3,-93.325691,42.20639
+IA,Hamilton County,19079,AG Land 5,2012,1,1.6,3,3,-93.632095,42.335491
+IA,Adair County,19001,Adair,2008,76,174.8,3,3,-94.68869,41.486591
+IA,Adams County,19003,Adams,2016,60,144.9,3,3,-94.725616,40.925251
+MN,Meeker County,27093,"Adams Wind Generations, LLC",2011,12,20.04,3,3,-94.71479,44.916992
+MN,Clay County,27027,Agassiz Beach,2001,3,1.98,3,3,-96.435493,46.999592
+IL,Bureau County,17011,Agriwind,2008,4,8.4,3,3,-89.619392,41.302994
+NE,Brown County,31017,Ainsworth Wind Project (NPPD),2005,36,59.4,3,3,-99.874794,42.459492
+WY,Laramie County,56021,Air Force (Laramie),2009,1,2.0,3,3,-104.884689,41.178291
+KS,Rush County,20165,Alexander,2015,21,48.3,3,3,-99.521271,38.420261
+CA,Kern County,6029,Alite Wind Farm,2008,8,24.0,3,3,-118.343689,35.031494
+PA,Cambria County,42021,Allegheny Ridge,2007,40,80.0,3,3,-78.579498,40.384991
+CA,Kern County,6029,Alta I,2010,100,150.0,3,3,-118.388885,35.052197
+CA,Kern County,6029,Alta II,2010,50,150.0,3,3,-118.223885,35.010796
+CA,Kern County,6029,Alta III,2011,50,150.0,3,3,-118.305389,35.003296
+CA,Kern County,6029,Alta IV,2011,34,102.0,3,3,-118.269386,34.996696
+CA,Riverside County,6065,Alta Mesa 1 and 2,1988,115,18.56,3,3,-116.656586,33.936596
+CA,Riverside County,6065,Alta Mesa 3,1995,42,9.45,3,3,-116.657387,33.938793
+CA,Kern County,6029,Alta V,2011,56,168.0,3,3,-118.25309,35.011696
+CA,Kern County,6029,Alta VI (partial),2011,44,132.0,3,3,-118.305389,35.027096
+CA,Kern County,6029,Alta VIII (partial),2011,43,129.0,3,3,-118.235489,35.007294
+CA,Kern County,6029,Alta X,2013,48,136.8,3,3,-118.22905,35.104855
+CA,Kern County,6029,Alta XI,2013,41,69.7,3,3,-118.372093,35.10244
+IN,Benton County,18007,Amazon Wind Farm (Fowler Ridge),2015,65,149.5,3,3,-87.405968,40.623802
+TX,Scurry County,48415,Amazon Wind Farm Texas,2017,110,253.0,3,3,-101.001038,32.859547
+OH,Paulding County,39125,Amazon Wind Farm US Central,2016,48,100.8,3,2,-84.773071,41.087425
+NC,Perquimans County,37143,Amazon Wind Farm US East,2017,104,208.0,3,3,-76.469376,36.322948
+TX,Kinney County,48271,Anacacho,2012,55,99.0,3,3,-100.206192,29.182795
+NM,Chaves County,35005,Anderson Wind Project,2014,5,10.0,3,3,-103.869209,33.013515
+TX,Denton County,48121,Apogee Stadium Wind,2012,3,0.3,3,3,-97.160995,33.201195
+MI,Huron County,26063,Apple Blossom,2017,29,100.05,3,1,-83.29007,43.791111
+MA,Essex County,25009,Applied Materials,2012,1,2.5,3,3,-70.649399,42.628193
+NM,Guadalupe County,35019,Aragonne Wind LLC (Pastura),2006,90,90.0,3,3,-105.000992,34.826996
+OK,Murray County,40099,Arbuckle Mountain,2015,50,100.0,3,3,-97.152649,34.380653
+PA,Tioga County,42117,Armenia Mountain,2009,67,100.5,3,3,-76.984566,41.735542
+ND,Griggs County,38039,Ashtabula II,2009,80,120.0,3,3,-97.974594,47.280193
+ND,Barnes County,38003,Ashtabula III,2010,39,62.4,3,3,-97.87809,47.201691
+ND,Barnes County,38003,Ashtabula Wind Center,2008,131,196.5,3,3,-97.964188,47.107391
+HI,Maui County,15009,Auwahi Wind,2012,8,24.0,3,3,-156.318481,20.599096
+KS,Kiowa County,20097,BTI Wind,2010,2,-9999.0,2,3,-99.30069,37.605694
+TX,Kenedy County,48261,Baffin,2015,101,202.0,3,3,-97.609123,27.141745
+ND,Burleigh County,38015,Baldwin,2010,64,102.4,3,3,-100.695793,47.148792
+OK,Beaver County,40007,Balko Wind,2015,162,299.7,3,3,-100.781624,36.519653
+MA,Barnstable County,25001,Barnstable Wastewater Treatment Facility,2010,2,0.2,2,3,-70.306396,41.663692
+IA,Worth County,19195,Barton,2009,80,160.0,3,3,-93.045692,43.380291
+TX,Jack County,48237,Barton Chapel,2009,60,120.0,3,3,-98.331192,33.066494
+PA,Luzerne County,42079,Bear Creek,2006,12,24.0,3,3,-75.737732,41.244194
+TX,Glasscock County,48173,Bearkat I,2017,57,196.65,3,3,-101.635674,31.783373
+IA,Greene County,19073,Beaver Creek,2017,85,170.0,3,3,-94.181282,42.11871
+MI,Gratiot County,26057,Beebe 1B,2014,21,50.4,3,3,-84.533142,43.311153
+MI,Gratiot County,26057,Beebe Community Wind,2012,34,81.6,3,3,-84.494995,43.243893
+WV,Greenbrier County,54025,Beech Ridge,2010,67,100.5,3,3,-80.4804,38.080395
+SD,Charles Mix County,46023,"Beethoven Wind, LLC",2015,43,79.55,3,3,-98.106842,43.187794
+OR,Baker County,41001,Benson Creek,2017,5,10.0,3,3,-117.276199,44.414421
+MN,Freeborn County,27047,Bent Tree,2011,122,201.3,3,3,-93.465591,43.727192
+IN,Benton County,18007,Benton County Wind Farm,2008,87,130.5,3,3,-87.411789,40.667381
+MA,Franklin County,25011,Berkshire East Ski Area,2010,1,0.9,3,3,-72.866798,42.616291
+MA,Berkshire County,25003,Berkshire Wind,2011,10,15.0,3,3,-73.274101,42.582291
+TX,Castro County,48069,Bethel,2017,120,276.0,3,3,-102.485085,34.523273
+MN,Faribault County,27043,Big Blue Wind Farm,2012,18,36.0,3,3,-94.232796,43.628193
+WA,Klickitat County,53039,Big Horn,2006,133,199.5,3,3,-120.328583,45.850895
+WA,Klickitat County,53039,Big Horn 2,2010,25,50.0,2,3,-120.267708,45.927769
+IL,Bureau County,17011,Big Sky Wind,2011,114,239.4,3,3,-89.48439,41.575592
+OK,Roger Mills County,40129,Big Smile Wind Farm at Dempsey Ridge,2012,66,132.0,3,3,-99.812889,35.539593
+TX,Howard County,48227,Big Spring I,1999,42,27.72,3,3,-101.431091,32.180393
+MT,Sweet Grass County,30097,Big Timber,2018,14,25.0,3,3,-109.636612,45.841423
+MI,Huron County,26063,Big Turtle,2014,10,20.0,3,3,-82.753502,43.884701
+MI,Huron County,26063,Big Turtle II,2016,14,29.4,3,2,-82.790268,43.933426
+OR,Sherman County,41055,Biglow Canyon I,2007,76,125.4,3,3,-120.621887,45.653893
+OR,Sherman County,41055,Biglow Canyon II,2009,65,149.5,3,3,-120.648483,45.655792
+OR,Sherman County,41055,Biglow Canyon III,2010,76,174.8,3,3,-120.517082,45.646996
+MN,Cottonwood County,27033,Bingham Lake,2006,12,15.0,3,3,-95.068489,43.961693
+ME,Somerset County,23025,Bingham Wind,2016,56,184.8,3,3,-69.68808,45.134323
+IL,Henry County,17073,Bishop Hill I,2012,34,51.0,3,3,-90.129295,41.161591
+IL,Henry County,17073,Bishop Hill II,2012,50,81.0,3,3,-90.219292,41.229492
+IL,Henry County,17073,Bishop Hill III,2018,51,127.5,3,3,-90.297745,41.231564
+ND,Morton County,38059,Bison 1B (2011),2011,7,21.0,2,3,-101.553391,46.95969
+ND,Oliver County,38065,Bison Wind 1A,2010,16,36.8,2,3,-101.529137,46.983624
+ND,Oliver County,38065,Bison Wind 1B,2012,8,24.0,3,3,-101.487587,47.003693
+ND,Morton County,38059,Bison Wind 2,2012,35,105.0,3,3,-101.677589,46.968391
+ND,Morton County,38059,Bison Wind 3,2012,35,105.0,3,3,-101.573593,46.946991
+ND,Oliver County,38065,Bison Wind 4,2014,64,204.8,3,3,-101.546829,47.022602
+MN,Stearns County,27145,Black Oak Getty,2016,39,78.0,3,3,-95.046051,45.625317
+IL,LaSalle County,17099,Blackstone (Top Crop),2009,68,102.0,3,3,-88.631996,41.147591
+IL,Grundy County,17063,Blackstone (Top Crop) II,2010,132,198.0,3,3,-88.496597,41.160992
+OK,Kay County,40071,Blackwell,2012,26,59.8,3,3,-97.460495,36.848595
+RI,Washington County,44009,Block Island,2016,5,30.0,3,3,-71.537651,41.106396
+KS,Clark County,20025,Bloom,2017,54,178.2,3,3,-99.903992,37.458096
+OK,Comanche County,40031,Blue Canyon I,2003,45,74.25,3,3,-98.565994,34.846294
+OK,Kiowa County,40075,Blue Canyon II,2005,84,151.2,3,3,-98.650391,34.883392
+OK,Comanche County,40031,Blue Canyon V,2009,66,99.0,3,3,-98.465195,34.803894
+OK,Caddo County,40015,Blue Canyon VI,2011,55,99.0,3,3,-98.538391,34.875793
+OH,Van Wert County,39161,Blue Creek,2012,152,304.0,3,3,-84.587997,40.972591
+WI,Fond du Lac County,55039,Blue Sky - Green Field,2008,88,145.2,3,3,-88.295395,43.88739
+TX,Wilbarger County,48487,Blue Summit,2012,6,9.0,3,3,-99.346596,34.311993
+MO,Gentry County,29075,Bluegrass Ridge,2007,27,56.7,3,3,-94.49369,40.090694
+OK,Beaver County,40007,Bluestem,2016,60,198.0,3,3,-100.590431,36.554623
+IN,Jay County,18075,Bluff Point,2017,57,119.7,3,3,-84.870354,40.319088
+TX,Archer County,48009,Bobcat Bluff,2012,100,150.0,3,3,-98.625694,33.477795
+ND,Rolette County,38079,Border Winds Project,2015,75,150.0,3,3,-99.579193,48.966972
+OH,Columbiana County,39029,Boyce Dairy Farm,2010,1,0.1,2,3,-81.045471,40.868603
+ND,Stark County,38089,Brady Wind I,2016,80,137.2,3,3,-102.903412,46.648975
+ND,Hettinger County,38041,Brady Wind II,2016,65,136.5,3,3,-102.692833,46.612343
+NM,Curry County,35009,"Brahms Wind, LLC",2014,12,19.8,3,3,-103.278923,34.747833
+TX,Borden County,48033,Brazos Wind Ranch,2003,61,61.0,3,3,-101.31749,32.941593
+OK,Garfield County,40047,Breckinridge,2015,57,98.1,3,3,-97.64315,36.457584
+TX,Briscoe County,48045,Briscoe,2015,81,150.0,3,3,-101.288223,34.352455
+TX,Deaf Smith County,48117,Broadview Energy JN LLC,2017,36,82.8,3,3,-102.977951,34.809921
+NM,Curry County,35009,Broadview Energy KW LLC,2017,62,142.6,3,3,-103.124443,34.721046
+NE,Custer County,31041,Broken Bow I,2012,50,80.0,3,3,-99.63279,41.492695
+NE,Custer County,31041,Broken Bow II,2014,43,75.0,3,3,-99.564293,41.538113
+CA,Kern County,6029,Brookfield Tehachapi 1 (CCDLP),2012,34,102.0,3,3,-118.30909,35.056396
+CA,Kern County,6029,Brookfield Tehachapi 2,2012,7,21.0,3,3,-118.244492,35.045197
+MI,Huron County,26063,Brookfield Wind Park,2014,44,74.8,3,3,-83.404999,43.721992
+IL,Brown County,17009,Brown County Wind Turbine,2011,1,1.5,3,3,-90.699394,39.973492
+TX,Willacy County,48489,Bruenning's Breeze,2017,76,228.0,3,3,-97.670471,26.53968
+KS,Ellis County,20051,Buckeye,2015,112,200.0,3,3,-99.545403,38.992294
+TX,Erath County,48143,Buckthorn,2017,26,89.7,3,3,-98.422028,32.358513
+CA,Contra Costa County,6013,Buena Vista,2006,38,38.0,3,3,-121.67099,37.799793
+OK,Harper County,40059,Buffalo Bear,2008,9,18.9,3,3,-99.64859,36.764595
+KS,Grant County,20067,Buffalo Dunes,2013,135,249.75,3,3,-101.09269,37.644394
+TX,Nolan County,48353,Buffalo Gap 3,2008,74,170.2,3,3,-100.201393,32.304794
+TX,Taylor County,48441,Buffalo Gap Wind Farm,2005,67,120.6,3,3,-100.144791,32.312195
+TX,Nolan County,48353,"Buffalo Gap, phase II",2007,155,232.5,3,3,-100.193489,32.364494
+TN,Anderson County,47001,Buffalo Mountain,2004,15,27.0,3,3,-84.335594,36.114895
+TN,Anderson County,47001,Buffalo Mountain (Windrock),2000,3,1.98,3,3,-84.338295,36.119793
+SD,Brookings County,46011,Buffalo Ridge,2009,24,50.4,3,3,-96.494888,44.41909
+SD,Brookings County,46011,Buffalo Ridge II,2010,105,210.0,3,3,-96.651894,44.525993
+MN,Lincoln County,27081,Buffalo Ridge Wind,1994,73,26.28,3,3,-96.25959,44.237492
+TX,Borden County,48033,Bull Creek,2008,180,180.0,3,3,-101.558388,32.935993
+ME,Hancock County,23009,Bull Hill,2012,19,34.2,3,3,-68.160896,44.695091
+IL,Bureau County,17011,Bureau Valley School District,2004,1,0.66,3,3,-89.678192,41.453392
+ID,Cassia County,16031,Burley Butte,2011,13,19.5,3,3,-113.92659,42.490093
+CO,Huerfano County,8055,Busch Ranch,2012,16,28.8,3,3,-104.480591,37.787792
+WI,Dodge County,55027,Butler Ridge,2009,36,54.0,3,3,-88.486862,43.418156
+CA,Riverside County,6065,Cabazon,1999,53,39.75,2,3,-116.717186,33.915695
+IL,Vermilion County,17183,California Ridge,2012,134,217.08,3,3,-87.785797,40.19379
+CA,Los Angeles County,6037,California State Prison Los Angeles County,2017,1,1.85,3,3,-118.221596,34.691982
+TX,Taylor County,48441,Callahan Divide,2005,76,114.0,2,3,-100.01725,32.304211
+TX,Cameron County,48061,Cameron,2015,55,165.0,3,3,-97.522163,26.174335
+CA,Kern County,6029,Cameron Ridge,1999,80,60.0,3,3,-118.307587,35.081696
+IL,Marshall County,17123,Camp Grove,2007,100,150.0,3,3,-89.588097,41.038391
+ID,Elmore County,16039,Camp Reed,2010,15,22.5,3,3,-115.049187,42.819794
+TX,Scurry County,48415,Camp Springs,2007,87,130.5,3,3,-100.82579,32.791294
+TX,Scurry County,48415,Camp Springs II,2008,59,88.5,3,3,-100.809692,32.700794
+SD,Campbell County,46021,Campbell County,2015,55,95.0,3,3,-100.286606,45.784527
+WY,Converse County,56009,Campbell Hill,2009,66,99.0,3,3,-105.999092,43.006794
+OK,Canadian County,40017,Canadian Hills,2012,73,149.65,3,3,-98.045189,35.627995
+KS,Elk County,20049,Caney River,2011,111,199.8,3,3,-96.438194,37.388592
+ME,Oxford County,23017,Canton Mountain,2017,8,22.8,3,3,-70.303192,44.514629
+MA,Barnstable County,25001,Cape Cod Regional Transit Authority,2010,1,0.1,2,3,-70.144402,41.69009
+TX,Sterling County,48431,Capricorn Ridge,2007,64,147.2,3,3,-100.902695,31.864294
+TX,Sterling County,48431,Capricorn Ridge expansion,2008,124,186.0,2,3,-100.969475,31.883724
+NM,Quay County,35037,Caprock Wind Ranch,2004,60,60.0,3,3,-103.318588,34.965294
+MN,Rice County,27131,Carleton College,2011,1,1.6,3,3,-93.127914,44.468742
+CO,Kit Carson County,8063,Carousel,2015,88,149.6,3,3,-102.145088,39.339794
+IA,Carroll County,19027,Carroll,2008,100,150.0,3,3,-94.903694,42.113094
+IA,Carroll County,19027,Carroll Area,2015,9,20.0,3,3,-94.903442,41.944771
+OH,Cuyahoga County,39035,Case Western University,2012,3,1.225,3,3,-81.496895,41.602093
+WY,Natrona County,56025,Casper Wind Farm,2009,11,16.5,3,3,-106.21299,42.888695
+PA,Somerset County,42111,Casselman,2007,23,34.5,3,3,-79.107994,39.862392
+ID,Twin Falls County,16083,Cassia,2009,14,29.4,3,3,-115.017387,42.877495
+IL,Livingston County,17105,Cayuga Ridge,2010,150,300.0,3,3,-88.389091,41.001392
+KS,Ness County,20135,Cedar Bluff,2015,111,198.7,3,3,-99.806099,38.633041
+CO,Weld County,8123,Cedar Creek,2007,53,79.5,3,3,-104.08889,40.882492
+CO,Weld County,8123,Cedar Creek II,2011,63,100.8,3,3,-103.749786,40.946293
+ND,Bowman County,38011,Cedar Hills,2010,13,19.5,3,3,-103.767387,46.245693
+CO,Lincoln County,8073,Cedar Point,2011,139,250.2,3,3,-103.575394,39.508392
+WI,Fond du Lac County,55039,Cedar Ridge Wind Farm,2008,41,67.65,3,3,-88.317696,43.729393
+TX,Webb County,48479,Cedro Hill,2010,100,150.0,3,3,-98.876892,27.576895
+CA,Yolo County,6113,Cemex Madison,2012,1,1.5,3,3,-121.935188,38.687595
+OK,Harper County,40059,Centennial Wind Farm,2007,40,60.0,3,3,-99.610443,36.639271
+KS,Wichita County,20203,Central Plains,2009,33,99.0,3,3,-101.161491,38.503094
+IA,Wright County,19197,Century,2005,100,150.0,3,3,-93.667992,42.57349
+IA,Hamilton County,19079,Century Expansion,2005,35,35.0,3,3,-93.69989,42.508392
+IA,Cerro Gordo County,19033,Cerro Gordo/Hawkeye Power/Clear Lake,1999,55,41.25,3,3,-93.435593,43.049492
+SD,Brule County,46015,Chamberlain Wind Project,2001,2,2.6,3,3,-99.246994,43.849392
+MN,Murray County,27101,"Champepaden, Chandler Hills Phase II",2001,3,1.98,3,3,-95.955894,43.920391
+TX,Nolan County,48353,Champion,2008,55,126.5,3,3,-100.611794,32.383595
+MN,Murray County,27101,Chanarambie,2003,57,85.5,2,3,-96.006844,43.983963
+TX,Nueces County,48355,Chapman Ranch,2017,81,249.075,3,3,-97.532806,27.632828
+IA,Floyd County,19067,Charles City,2008,50,75.0,3,3,-92.733994,43.048992
+PA,Blair County,42013,Chestnut Flats,2011,17,34.0,2,3,-78.469696,40.520992
+AK,Kusilvak Census Area,2158,Chevak,2009,4,0.4,2,3,-165.608871,61.525002
+OK,Garfield County,40047,Chisholm View,2012,140,235.2,3,3,-97.64949,36.573795
+OK,Garfield County,40047,Chisholm View II,2016,27,64.8,3,3,-97.727295,36.512383
+OR,Umatilla County,41059,Chopin,2016,6,9.9,3,3,-118.465309,45.887829
+KS,Clark County,20025,Cimarron Bend I,2016,100,200.0,3,3,-99.863708,37.385075
+KS,Clark County,20025,Cimarron Bend II,2017,100,200.0,3,3,-100.053795,37.363132
+KS,Gray County,20069,Cimarron I,2012,72,165.6,3,3,-100.311295,37.860195
+KS,Gray County,20069,Cimarron II,2012,57,131.1,3,3,-100.39389,37.872593
+TX,Lynn County,48305,Cirrus 1,2012,17,61.2,3,3,-101.706688,33.033092
+MN,Jackson County,27063,Cisco,2008,4,8.4,3,3,-95.372688,43.625793
+SD,Miner County,46097,City of Howard Wind Turbines,2001,2,0.216,2,3,-97.539421,44.009567
+CA,Monterey County,6053,City of Soledad Water Reclamation Facility,2014,1,1.85,3,3,-121.340164,36.42094
+KS,Cloud County,20029,Cloud County Community College,2010,2,0.2,2,3,-97.664291,39.54837
+WA,Grays Harbor County,53027,Coastal Energy,2010,4,6.0,3,3,-124.066582,46.793896
+ID,Elmore County,16039,Cold Springs,2012,60,138.0,3,3,-115.44339,43.006992
+CO,Prowers County,8099,Colorado Green Wind Project (Lamar),2003,108,162.0,3,3,-102.642387,37.700596
+CO,Logan County,8075,Colorado Highlands,2012,42,67.2,3,3,-102.758392,40.720291
+OR,Umatilla County,41059,Combine Hills I,2003,41,41.0,3,3,-118.586746,45.940266
+OR,Umatilla County,41059,Combine Hills II,2009,63,63.0,3,3,-118.570984,45.935593
+MN,Lincoln County,27081,Community Wind North,2011,12,30.0,3,3,-96.412994,44.244591
+MN,Nobles County,27105,Community Wind South,2012,15,30.75,3,3,-95.809494,43.704693
+MO,Nodaway County,29147,Conception Wind Project,2008,24,50.4,3,3,-94.666695,40.190693
+OR,Gilliam County,41021,"Condon Wind Project, phase I",2001,41,24.6,3,3,-120.282883,45.283894
+OR,Gilliam County,41021,"Condon Wind Project, phase II",2002,42,25.2,3,3,-120.255486,45.308395
+OH,Van Wert County,39161,Cooper Farms,2012,2,3.0,3,3,-84.566795,40.914993
+CA,Kern County,6029,Coram Energy LLC,2005,6,9.0,3,3,-118.342789,35.063293
+TX,Floyd County,48153,Cotton Plains Wind,2017,21,50.4,3,3,-101.245377,34.005695
+NE,Webster County,31181,Cottonwood Wind,2017,36,82.8,3,3,-98.485321,40.296494
+ND,Stutsman County,38093,Courtenay,2016,100,200.0,3,3,-98.628441,47.245419
+MO,Atchison County,29005,Cow Branch Wind Project,2008,24,50.4,3,3,-95.451393,40.483192
+IA,Howard County,19089,Crane Creek,2009,66,99.0,3,3,-92.498489,43.406193
+IL,Bureau County,17011,Crescent Ridge I,2005,33,54.45,3,3,-89.580292,41.261692
+NE,Platte County,31141,Creston Ridge,2015,4,6.8,3,3,-97.383492,41.677593
+NE,Platte County,31141,Creston Ridge Expansion,2017,3,6.9,3,3,-97.409187,41.678719
+MD,Garrett County,24023,Criterion,2010,28,70.0,3,3,-79.334396,39.37429
+NE,Knox County,31107,Crofton Bluffs,2012,20,36.0,3,3,-97.555794,42.700794
+IA,Palo Alto County,19147,Cross Winds,2007,10,21.0,3,3,-94.901489,43.061493
+MI,Tuscola County,26157,Cross Winds Energy Park,2014,62,110.98,3,3,-83.385345,43.60902
+MI,Tuscola County,26157,Cross Winds Energy Park II,2018,19,43.7,3,3,-83.420448,43.66378
+OK,Dewey County,40043,Crossroads,2011,85,195.5,3,3,-98.731895,36.051495
+SD,Aurora County,46003,Crow Lake,2010,58,87.0,3,3,-98.780594,43.897991
+IA,Hancock County,19081,Crystal Lake I,2008,100,150.0,3,3,-93.87989,43.177792
+IA,Winnebago County,19189,Crystal Lake II,2008,76,190.0,3,3,-93.834595,43.274391
+IA,Winnebago County,19189,Crystal Lake III,2009,44,66.0,3,3,-93.877792,43.362694
+OH,Cuyahoga County,39035,Cuyahoga County Fairgrounds,2012,1,0.5,3,3,-81.839195,41.366493
+MN,Meeker County,27093,Danielson,2011,12,20.04,3,3,-94.735596,45.067493
+SD,Day County,46037,Day County Wind Project,2010,66,99.0,3,3,-97.891289,45.241493
+TX,Hutchinson County,48233,DeWind Little Pringle #1,2010,5,10.0,3,3,-101.529091,35.921192
+TX,Hutchinson County,48233,DeWind Little Pringle #2,2010,5,10.0,3,3,-101.535294,35.934296
+MI,Huron County,26063,Deerfield,2017,28,58.8,3,2,-82.820694,43.947338
+VT,Bennington County,50003,Deerfield Wind,2017,7,14.0,3,3,-72.989723,42.876476
+TX,Culberson County,48109,Delaware Mts.,1999,38,28.5,3,3,-104.747894,31.689695
+MA,Worcester County,25027,"Department of Correction, NCCI Gardner",2011,2,3.3,3,3,-71.938202,42.581692
+CA,Riverside County,6065,Desert Hot Springs,1985,8,-9999.0,1,3,-116.608711,33.948154
+TX,Pecos County,48371,Desert Sky,2001,107,160.5,3,3,-102.090294,30.937096
+CA,Alameda County,6001,Diablo Winds,2004,31,20.46,3,3,-121.649788,37.772095
+MT,Fallon County,30025,Diamond Willow Wind,2008,12,18.0,3,3,-104.175087,46.278893
+MT,Fallon County,30025,Diamond Willow extension,2010,7,10.5,3,3,-104.168686,46.268894
+CA,Riverside County,6065,DifWind Farms Ltd. I,1986,68,7.344,2,3,-116.563789,33.897694
+CA,Riverside County,6065,DifWind Farms Ltd. II,1986,28,3.024,2,3,-116.566887,33.894493
+CA,Riverside County,6065,DifWind Farms Ltd. IIA,1986,39,2.535,2,3,-116.568787,33.892696
+CA,Riverside County,6065,DifWind Farms Ltd. V,1985,109,11.772,2,3,-116.551285,33.894794
+CA,Kern County,6029,Difwind 6,1987,250,27.0,2,3,-118.269287,35.054794
+CA,Riverside County,6065,Dillon,2008,45,45.0,3,3,-116.559891,33.938694
+OR,Marion County,41047,Doerfler Farms,2011,1,0.25,3,3,-122.80687,44.867569
+OK,Grady County,40051,Drift Sand,2016,54,108.0,3,3,-97.983833,34.847382
+AZ,Navajo County,4017,Dry Lake,2009,30,63.0,3,3,-110.285393,34.673897
+AZ,Navajo County,4017,Dry Lake II,2010,31,65.1,3,3,-110.164085,34.598194
+WY,Carbon County,56007,Dunlap,2010,74,111.0,3,3,-106.155289,42.040794
+OR,Baker County,41001,Durbin Creek,2017,5,10.0,3,3,-117.330193,44.351841
+CA,Riverside County,6065,Dutch Energy,1994,20,10.0,2,3,-116.560287,33.896896
+NY,Steuben County,36101,Dutch Hill/Cohocton,2009,50,125.0,3,3,-77.401497,42.526493
+CA,Solano County,6095,EDF Renewable V,1990,78,16.2,2,3,-121.808952,38.081757
+CA,Riverside County,6065,EUI Management,1985,64,7.68,2,3,-116.634621,33.941055
+MN,Murray County,27101,East Ridge,2006,8,10.0,2,3,-95.917137,43.940216
+CA,Riverside County,6065,East Winds,1985,7,4.165,2,3,-116.54789,33.889194
+MI,Huron County,26063,Echo,2014,70,112.0,3,3,-83.173897,43.929394
+OR,Umatilla County,41059,Echo 1-7,2009,27,44.55,3,3,-119.400284,45.703293
+OR,Morrow County,41049,Echo 8-9,2009,5,10.0,3,3,-119.458473,45.64933
+IA,Guthrie County,19077,Eclipse,2012,87,200.1,3,3,-94.679291,41.572193
+IL,Stephenson County,17177,EcoGrove,2009,67,100.5,3,3,-89.85379,42.484894
+CA,Riverside County,6065,Edom Hills (repower),2008,8,20.0,3,3,-116.460991,33.881794
+NM,Torrance County,35057,El Cabo,2017,142,298.2,3,3,-105.62867,34.709526
+KS,Butler County,20015,El Dorado Wind Power,2012,1,1.0,3,3,-96.851089,37.796993
+TX,Howard County,48227,Elbow Creek Wind Farm,2008,53,121.9,3,3,-101.416389,32.199196
+TX,Wilbarger County,48487,Electra Wind,2016,100,230.0,3,3,-99.014198,34.127373
+IA,Delaware County,19055,Elk,2011,17,42.5,3,3,-91.392395,42.611191
+OK,Roger Mills County,40129,Elk City,2009,43,98.9,3,3,-99.93869,35.535595
+OK,Roger Mills County,40129,Elk City II,2010,48,72.0,3,3,-99.733292,35.480595
+KS,Butler County,20015,Elk River,2005,100,150.0,3,3,-96.550392,37.579693
+NE,Knox County,31107,Elkhorn Ridge,2009,27,81.0,3,3,-97.678688,42.671394
+OR,Union County,41061,Elkhorn Valley (08),2008,2,3.3,3,3,-117.789085,45.109394
+OR,Union County,41061,Elkhorn Valley (La Grande),2007,59,97.35,3,3,-117.815788,45.050896
+MN,Jackson County,27063,Elm Creek,2008,66,99.0,3,3,-94.953094,43.739693
+MN,Jackson County,27063,Elm Creek II,2010,62,148.8,3,3,-94.887489,43.744991
+AK,Kusilvak Census Area,2158,Emmonak 1,2011,4,0.4,3,3,-164.560379,62.7836
+IA,Osceola County,19143,Endeavor,2008,30,75.0,3,3,-95.485291,43.478191
+IA,Osceola County,19143,Endeavor II,2008,20,50.0,3,3,-95.481094,43.456993
+CA,Riverside County,6065,Enron Earth Smart/Green Power,1999,22,16.5,3,3,-116.595985,33.919994
+KS,Gray County,20069,Ensign,2012,39,89.7,3,3,-100.218193,37.600693
+MA,Essex County,25009,Equity Industrial Partners,2012,2,4.0,3,3,-70.657204,42.62669
+AK,Denali Borough,2068,Eva Creek,2012,12,24.6,3,3,-148.903778,64.059998
+WY,Uinta County,56041,Evanston (Wyoming Wind Energy Center),2003,80,144.0,3,3,-110.819046,41.363754
+WI,Rock County,55105,Evansville WWTP,2010,1,0.1,3,3,-89.279991,42.777592
+MN,Jackson County,27063,Ewington,2008,10,21.0,3,3,-95.377289,43.595898
+WY,Laramie County,56021,F.E. Warren Air Force Base,2005,2,1.32,3,3,-104.882988,41.175995
+MD,Garrett County,24023,Fair Wind,2015,12,30.0,3,3,-79.381378,39.331512
+MT,Teton County,30099,Fairfield Wind Farm,2014,4,6.8,3,3,-111.950951,47.709682
+MN,Martin County,27091,Fairmont Wind (SMMPA),2004,2,3.3,3,3,-94.441193,43.579292
+TX,Randall County,48381,Falvez Astra,2017,68,163.2,3,3,-102.069374,34.765388
+MN,Jackson County,27063,Farmer's,2004,6,5.7,3,3,-95.380737,43.651375
+MO,Atchison County,29005,Farmers City,2009,73,146.0,3,3,-95.446091,40.570892
+MN,Pipestone County,27117,Farmers' coops/Westridge,2003,18,17.1,3,3,-96.21859,43.992992
+NY,Madison County,36053,Fenner Wind Power Project,2001,19,28.5,2,3,-75.764801,42.994392
+MN,Murray County,27101,Fenton,2007,137,205.5,3,3,-95.908493,43.860493
+RI,Providence County,44007,Field's Point Wastewater Treatment Facilit,2012,3,4.5,3,3,-71.389801,41.792789
+AK,Anchorage Municipality,2020,Fire Island Project,2012,11,17.6,3,3,-150.222977,61.130699
+KS,Kingman County,20095,Flat Ridge 2,2012,262,419.2,3,3,-98.254089,37.389694
+KS,Harper County,20077,Flat Ridge 2 Expansion,2012,32,51.2,2,3,-98.141991,37.364994
+KS,Barber County,20007,Flat Ridge Wind Farm,2009,40,100.0,3,3,-98.444191,37.356693
+TX,Mills County,48333,Flat Top,2018,100,200.0,3,2,-98.525543,31.538652
+NE,Richardson County,31147,Flat Water,2010,40,60.0,3,3,-95.889389,40.001194
+TX,Scurry County,48415,Fluvanna I,2017,74,155.4,3,3,-101.142349,32.930405
+IA,Dickinson County,19059,Flying Cloud,2003,29,43.5,3,3,-95.294792,43.379292
+WY,Carbon County,56007,Foote Creek 3,1999,33,24.75,3,3,-106.184898,41.659573
+WY,Carbon County,56007,Foote Creek 4,2000,28,16.8,3,3,-106.175789,41.676872
+WY,Carbon County,56007,Foote Creek Rim I,1999,69,41.4,3,3,-106.196404,41.647095
+WY,Carbon County,56007,Foote Creek Rim II,1999,3,1.8,3,3,-106.18927,41.65749
+TX,Sterling County,48431,Forest Creek Wind Project,2006,54,124.2,3,3,-101.199791,32.057297
+KS,Ellis County,20051,Fort Hays State University,2013,2,4.0,3,3,-99.405579,38.87479
+PA,Somerset County,42111,Forward,2008,14,29.4,3,3,-78.863998,40.100193
+IA,Adair County,19001,Forward Fontanelle,2012,1,1.6,3,3,-94.570694,41.339592
+WI,Dodge County,55027,Forward Wind Project,2008,86,129.0,3,3,-88.527992,43.57769
+ID,Twin Falls County,16083,Fossil Gulch,2005,7,10.5,3,3,-114.949585,42.862293
+MD,Garrett County,24023,Fourmile Ridge,2014,16,40.0,3,3,-79.025787,39.620422
+IN,Benton County,18007,Fowler Ridge I,2009,182,300.3,3,3,-87.276695,40.610893
+IN,Benton County,18007,Fowler Ridge II,2009,133,199.5,3,3,-87.443893,40.575893
+ME,Knox County,23013,Fox Islands,2009,3,4.5,3,3,-68.866302,44.09259
+IA,Franklin County,19069,Franklin County,2012,60,99.0,3,3,-93.354897,42.62759
+TX,Hansford County,48195,Frisco,2012,10,20.0,3,3,-101.588188,36.498493
+OK,Kay County,40071,Frontier I,2016,56,184.8,3,3,-97.145264,36.834637
+PR,Ceiba Municipio,72037,Ft Buchanan Energy Savings Performance Con,2013,3,0.825,3,3,-65.610001,18.231634
+MA,Plymouth County,25023,Future Generation Wind,2016,4,8.0,3,3,-70.617706,41.770367
+MN,Mower County,27099,G. McNeilus Wind Farm,2003,9,13.5,3,3,-92.724091,43.551491
+MN,Winona County,27169,GL Wind,2011,2,5.0,3,3,-91.877182,43.994598
+IL,LaSalle County,17099,GSG Wind Farm,2007,40,80.0,3,3,-89.101791,41.62619
+IA,Story County,19169,"GWE, LLC",2012,2,4.0,3,3,-93.47789,42.000492
+WI,Dane County,55025,Galactic Wind,2012,6,9.9,3,3,-89.551598,43.173092
+CA,Riverside County,6065,Garnet Wind Project,2009,13,6.5,3,3,-116.582489,33.903194
+VT,Franklin County,50011,Georgia Mountain,2012,4,10.0,3,3,-73.073158,44.665398
+WI,Columbia County,55021,Glacier Hills,2011,90,162.0,3,3,-89.174194,43.564991
+MT,Toole County,30101,Glacier I,2008,71,106.5,3,3,-112.154083,48.520794
+MT,Glacier County,30035,Glacier Wind II,2009,69,103.5,3,3,-112.217087,48.563194
+WY,Converse County,56009,Glenrock,2008,66,99.0,3,3,-105.826286,43.088894
+WY,Converse County,56009,Glenrock III,2009,26,39.0,3,3,-105.808189,43.014591
+TX,Coke County,48081,Goat Phase I,2008,80,80.0,3,3,-100.784195,31.939995
+TX,Coke County,48081,Goat Phase II,2009,29,69.6,3,3,-100.790794,31.976395
+CA,Alameda County,6001,Golden Hills,2015,48,85.9,3,3,-121.626106,37.727306
+CA,Alameda County,6001,Golden Hills North,2017,20,46.0,3,3,-121.62114,37.756844
+TX,Oldham County,48359,Golden Spread Panhandle Wind Ranch,2011,34,78.2,3,3,-102.174294,35.226894
+ID,Cassia County,16031,Golden Valley,2011,8,12.0,3,3,-113.927185,42.432896
+CO,El Paso County,8041,Golden West Wind Farm,2015,145,249.2,3,3,-104.236542,38.922573
+TX,Mills County,48333,Goldthwaite,2013,83,141.1,3,3,-98.492294,31.419195
+IN,Benton County,18007,Goodland I,2008,87,130.5,3,3,-87.513596,40.698692
+WA,Klickitat County,53039,Goodnoe Hills,2008,47,94.0,3,3,-120.521187,45.778393
+OK,Texas County,40139,Goodwell,2015,29,58.0,3,3,-101.599808,36.538544
+MT,Meagher County,30059,Gordon Butte,2012,6,9.0,3,3,-110.335388,46.408592
+ID,Bonneville County,16019,Goshen North,2010,83,124.5,3,3,-111.832787,43.496796
+ND,Walsh County,38099,Grafton Technical College,1997,1,0.07,2,3,-97.426094,48.406094
+MN,Mower County,27099,Grand Meadow,2008,67,100.5,3,3,-92.657394,43.703693
+IL,LaSalle County,17099,Grand Ridge,2008,66,99.0,3,3,-88.694191,41.225391
+IL,LaSalle County,17099,Grand Ridge II,2009,34,51.0,3,3,-88.656891,41.19799
+IL,LaSalle County,17099,Grand Ridge III/IV,2009,40,60.0,3,3,-88.737793,41.161694
+NE,Holt County,31089,Grande Prairie,2016,200,400.0,3,3,-98.496613,42.561523
+TX,Carson County,48065,Grandview I,2014,118,211.22,3,3,-101.265213,35.255714
+TX,Gray County,48179,Grandview II (Colbeck's Corner),2016,112,200.48,3,3,-101.031845,35.304325
+NH,Coos County,33007,Granite Reliable Power,2012,33,99.0,3,3,-71.317299,44.83849
+MN,Grant County,27051,Grant County,2010,10,20.0,3,3,-95.907494,45.813393
+OK,Grant County,40053,Grant Plains,2016,64,147.2,3,3,-97.712517,36.980568
+OK,Grant County,40053,Grant Wind,2016,66,151.8,3,3,-97.68441,36.944233
+MI,Gratiot County,26057,Gratiot,2011,64,102.4,3,3,-84.439491,43.452793
+MI,Gratiot County,26057,Gratiot County,2012,69,110.4,3,3,-84.530296,43.403793
+KS,Gray County,20069,Gray County Wind Farm Montezuma),2001,170,112.2,3,3,-100.384094,37.577694
+OK,Ellis County,40045,Great Western,2016,63,126.0,3,3,-99.521149,36.156963
+IA,Cass County,19029,Green Energy Machine,2016,1,1.79,3,3,-94.75351,41.37022
+PA,Somerset County,42111,Green Mountain Wind Farm,2000,8,10.4,3,3,-79.070496,39.851692
+TX,Baylor County,48023,Green Pastures I,2015,50,150.0,3,3,-99.398575,33.620564
+TX,Knox County,48275,Green Pastures II,2015,50,150.0,3,3,-99.528481,33.675526
+CA,Riverside County,6065,Green Power,1999,22,15.45,3,3,-116.595985,33.914696
+CA,Alameda County,6001,Green Ridge Power,1983,1400,140.0,2,3,-121.586288,37.672695
+MT,Teton County,30099,Greenfield Wind Farm,2016,13,29.9,3,3,-111.911148,47.72628
+KS,Kiowa County,20097,Greensburg,2010,10,12.5,3,3,-99.345795,37.549793
+NH,Grafton County,33009,Groton,2012,24,48.0,3,3,-71.793701,43.737091
+TX,Kenedy County,48261,Gulf Wind,2009,118,283.2,3,3,-97.592194,26.919596
+TX,Howard County,48227,Gunsight,2016,67,119.93,3,3,-101.437782,32.491806
+CA,Kern County,6029,H & S - Tehachapi,1985,45,4.05,2,3,-118.363014,35.078331
+TX,Shackelford County,48417,Hackberry,2008,72,165.6,3,3,-99.482292,32.768192
+ME,Hancock County,23009,Hancock,2016,17,51.0,3,3,-68.126099,44.762589
+IA,Hancock County,19081,Hancock County Wind Farm,2002,148,97.68,3,3,-93.653191,42.939392
+WY,Laramie County,56021,Happy Jack,2008,14,29.4,3,3,-105.00869,41.139091
+NY,Wayne County,36117,Harbec Plastics,2012,1,0.85,3,3,-77.360138,43.226955
+TX,Nueces County,48355,Harbor Wind,2012,6,9.0,3,3,-97.438217,27.832026
+IA,Greene County,19073,Hardin-Hilltop,2007,7,14.7,3,3,-94.345894,42.086891
+NY,Herkimer County,36043,Hardscrabble,2011,37,74.0,3,3,-74.904594,43.11409
+MI,Huron County,26063,Harvest II,2012,33,59.4,3,3,-83.190292,43.86729
+MI,Huron County,26063,Harvest Wind Farm,2008,32,52.8,3,3,-83.233498,43.834293
+CA,Shasta County,6089,Hatchett Ridge,2010,44,101.2,3,3,-121.760986,40.871094
+OH,Paulding County,39125,Haviland Wind Project,2012,1,1.5,3,3,-84.589096,41.02219
+HI,Hawaii County,15001,Hawi Renewable,2006,16,10.56,3,3,-155.853485,20.257097
+IA,Fayette County,19065,Hawkeye,2012,15,37.5,3,3,-92.052391,42.939392
+OR,Sherman County,41055,Hay Canyon,2009,48,100.8,3,3,-120.581085,45.476894
+IN,Randolph County,18135,Headwaters,2014,100,200.0,3,3,-84.961067,40.098652
+TX,Deaf Smith County,48117,Hereford 1,2014,50,100.0,3,3,-102.264801,34.772343
+MI,Delta County,26041,Heritage Garden,2012,14,28.0,3,3,-86.539192,45.821892
+TX,Hidalgo County,48215,Hidalgo (Los Mirasoles),2016,75,150.0,3,3,-98.447433,26.490177
+TX,Hidalgo County,48215,Hidalgo II (Los Mirasoles),2016,50,100.0,3,3,-98.387871,26.43609
+NM,Torrance County,35057,High Lonesome,2009,40,100.0,3,3,-105.953194,34.451996
+ID,Elmore County,16039,High Mesa,2012,19,39.9,3,3,-115.04689,42.895893
+WY,Albany County,56001,High Plains,2009,66,99.0,3,3,-106.029991,41.675793
+NY,Wyoming County,36121,High Sheldon,2009,75,112.5,3,3,-78.377197,42.708191
+CA,Solano County,6095,High Winds,2003,90,162.0,3,3,-121.807587,38.138596
+IA,O'Brien County,19141,Highland I,2015,211,495.01,3,3,-95.673203,43.030781
+IA,O'Brien County,19141,Highland II,2015,3,7.04,3,3,-95.620529,43.112103
+PA,Cambria County,42021,Highland North,2012,30,75.0,3,3,-78.711594,40.301292
+PA,Cambria County,42021,Highland Wind Project,2009,25,62.5,3,3,-78.713699,40.251591
+OH,Hardin County,39065,Hog Creek,2017,30,66.0,3,3,-83.739944,40.786903
+MN,Sibley County,27143,Hometown WindPower Arlington,2010,1,0.16,3,3,-94.064896,44.612823
+MN,Polk County,27119,Hometown WindPower East Grand Forks,2010,1,0.16,3,3,-96.987137,47.937672
+MN,Scott County,27139,Hometown WindPower Shakopee,2010,1,0.16,3,3,-93.499779,44.799507
+AK,Kusilvak Census Area,2158,Hooper Bay,2008,3,0.3,2,3,-166.096573,61.5359
+IL,Vermilion County,17183,Hoopeston Wind,2015,49,98.0,3,3,-87.784615,40.425152
+MA,Berkshire County,25003,Hoosac,2012,19,28.5,3,3,-73.043198,42.732292
+IN,Benton County,18007,Hoosier,2009,53,106.0,3,3,-87.274796,40.698891
+WA,Columbia County,53013,Hopkins Ridge I,2005,83,149.4,3,3,-117.785072,46.42329
+WA,Columbia County,53013,Hopkins Ridge II,2008,4,7.2,3,3,-117.806885,46.432693
+WA,Columbia County,53013,Hopkins Ridge Wind Project,2005,83,149.4,3,3,-117.810318,46.406425
+ID,Bonneville County,16019,Horse Butte,2012,32,57.6,3,3,-111.778786,43.431793
+TX,Haskell County,48207,Horse Creek Wind,2016,100,230.0,3,3,-99.548668,33.390141
+TX,Nolan County,48353,Horse Hollow II,2006,80,184.0,3,3,-100.16198,32.275604
+TX,Nolan County,48353,Horse Hollow III,2006,149,223.5,2,3,-100.274773,32.278004
+TX,Taylor County,48441,Horse Hollow Wind Energy Center,2005,140,210.0,2,3,-100.041405,32.250423
+OR,Gilliam County,41021,Horseshoe Bend,2012,116,290.0,3,3,-120.005783,45.577892
+MT,Cascade County,30013,Horseshoe Bend/ranch pit,2006,6,9.0,3,3,-111.437988,47.501194
+NY,Steuben County,36101,Howard,2011,25,51.25,3,3,-77.553024,42.306538
+CO,Huerfano County,8055,Huerfano River,2013,4,8.0,2,3,-104.83149,37.776093
+MA,Plymouth County,25023,Hull I,2001,1,0.66,3,3,-70.922195,42.30439
+MA,Suffolk County,25025,IBEW local 103,2005,1,0.1,3,3,-71.0541,42.304691
+IA,Ida County,19093,Ida Grove,2016,120,276.0,3,3,-95.394325,42.29443
+TX,Nolan County,48353,Inadale (Roscoe IV),2009,197,197.0,3,3,-100.537094,32.502792
+TX,Pecos County,48371,Indian Mesa,2001,125,82.5,3,3,-102.200493,30.926695
+CA,Merced County,6047,International Turbine Research Center,1988,163,17.43,1,3,-121.175591,37.046196
+IA,Buena Vista County,19021,Intrepid,2004,106,159.0,3,3,-95.300438,42.586662
+IA,Sac County,19161,Intrepid Expansion,2005,15,15.0,3,3,-95.352989,42.526993
+IA,Kossuth County,19109,Iowa Lakes Lakota Wind,2009,7,10.5,3,3,-94.130493,43.380192
+IA,Dickinson County,19059,Iowa Lakes Superior Wind,2009,7,10.5,3,3,-94.981995,43.441193
+IA,Polk County,19153,Iowa State Fair Wind Project,2007,1,0.66,3,3,-93.548897,41.595093
+KS,Ford County,20057,Ironwood I,2012,73,167.9,3,3,-99.821091,37.812794
+TX,Moore County,48341,JD WInd 9,2008,8,10.0,3,3,-101.99659,35.808193
+TX,Moore County,48341,JD Wind 10,2008,8,10.0,3,3,-101.799088,35.961395
+TX,Moore County,48341,JD Wind 11,2009,8,10.0,3,3,-101.984688,35.816795
+TX,Hansford County,48195,JD Wind 4,2008,38,79.8,3,3,-101.378792,36.380894
+TX,Moore County,48341,JD Wind 7,2009,8,10.0,3,3,-101.863693,35.995495
+TX,Moore County,48341,JD Wind 8,2009,8,10.0,3,3,-101.88549,36.025593
+TX,Sherman County,48421,JD Wind Phase V,2006,8,10.0,3,3,-101.865288,36.445496
+TX,Sherman County,48421,JD Wind VI,2007,8,10.0,3,3,-101.812492,36.467094
+MN,Lincoln County,27081,JJN Wind Farm,2004,1,1.5,2,3,-96.391891,44.280891
+TX,Webb County,48479,Javelina,2015,11,19.69,3,3,-98.985153,27.285826
+TX,Webb County,48479,Javelina II,2016,91,182.0,3,3,-98.875954,27.502922
+MN,Cottonwood County,27033,Jeffers,2008,20,50.0,3,3,-95.243195,44.058891
+NH,Coos County,33007,Jericho Mountain,2015,5,14.25,3,3,-71.225662,44.468952
+NY,Franklin County,36033,Jericho Rise,2016,37,77.7,3,3,-74.060173,44.866219
+NJ,Atlantic County,34001,Jersey Atlantic Wind Farm,2005,5,7.5,3,3,-74.450401,39.382294
+OR,Baker County,41001,Jett Creek,2017,5,10.0,3,3,-117.268356,44.425102
+MT,Wheatland County,30107,Judith Gap,2005,90,135.0,3,3,-109.732689,46.573692
+TX,Castro County,48069,Jumbo Road,2015,162,299.7,3,3,-102.214142,34.739025
+IA,Greene County,19073,Junction Hilltop Wind,2012,5,8.0,3,3,-94.269089,42.098892
+WA,Klickitat County,53039,Juniper Canyon,2011,63,151.2,3,3,-120.163483,45.886093
+OK,Texas County,40139,KODE Novus I,2012,40,80.0,3,3,-101.350594,36.517296
+OK,Texas County,40139,KODE Novus II,2012,20,40.0,3,3,-101.484291,36.542595
+HI,Maui County,15009,Kaheawa (Maalaea),2006,20,30.0,3,3,-156.548187,20.809896
+HI,Maui County,15009,Kaheawa Wind II,2012,14,21.0,3,3,-156.529785,20.786497
+HI,Honolulu County,15003,Kahuku,2011,12,30.0,3,3,-157.970093,21.680998
+CA,Riverside County,6065,Karen Avenue Windfarm,1994,12,11.7,2,3,-116.557785,33.922295
+MN,Pipestone County,27117,Kas Farms,2001,2,1.5,3,3,-96.112694,44.011993
+AK,Bethel Census Area,2050,Kasigluk,2006,3,0.3,3,3,-162.512878,60.8694
+HI,Honolulu County,15003,Kawailoa Wind,2012,30,69.0,3,3,-158.045792,21.625797
+OK,Kay County,40071,Kay Wind,2015,130,299.0,3,3,-97.194572,36.990356
+TX,Jack County,48237,Keechi,2015,55,110.0,3,3,-98.175835,33.159363
+OK,Woodward County,40153,Keenan II,2010,66,151.8,3,3,-99.509995,36.267296
+IL,Kankakee County,17091,Kelly Creek,2016,92,184.0,3,3,-88.179184,40.997791
+ME,Franklin County,23007,Kibby Mountain II,2010,22,66.0,3,3,-70.5793,45.346092
+ME,Franklin County,23007,"Kibby Mountain, phase I",2009,22,66.0,3,3,-70.546501,45.398792
+NE,Kimball County,31105,Kimball Wind Farm,2018,12,30.0,3,3,-103.718529,41.303177
+TX,Upton County,48461,King Mtn. Wind Ranch,2001,214,278.2,3,3,-102.191093,31.290695
+VT,Orleans County,50019,Kingdom Community Wind,2012,21,63.0,3,3,-72.4086,44.767193
+OK,Kingfisher County,40073,Kingfisher Wind,2015,90,180.0,3,3,-97.947693,35.734886
+AZ,Mohave County,4015,Kingman,2011,5,10.0,3,3,-114.069389,35.146496
+KS,Kingman County,20095,Kingman Wind Energy Center,2016,110,188.65,3,3,-98.180199,37.542023
+MA,Plymouth County,25023,Kingston,2012,1,2.0,3,3,-70.715897,41.97879
+CO,Kit Carson County,8063,Kit Carson Project,2010,34,51.0,3,3,-102.345894,39.362095
+OR,Sherman County,41055,Klondike I,2001,16,24.0,3,3,-120.551758,45.574734
+OR,Sherman County,41055,Klondike II,2005,50,75.0,3,3,-120.572487,45.565094
+OR,Sherman County,41055,Klondike III,2007,80,120.0,3,3,-120.621284,45.561092
+OR,Sherman County,41055,Klondike IIIA,2008,51,76.5,3,3,-120.63839,45.571396
+AK,Kodiak Island Borough,2150,Kodiak Island Wind Project,2009,3,4.5,3,3,-152.440582,57.787098
+AK,Northwest Arctic Borough,2188,Kotzebue Wind Project,2002,7,2.115,2,3,-162.557373,66.83712
+AK,Northwest Arctic Borough,2188,Kotzebue Wind Project Phase I,1997,3,0.15,3,3,-162.563171,66.839905
+AK,Northwest Arctic Borough,2188,Kotzebue Wind Project Phases II & III,1999,7,0.35,3,3,-162.557373,66.838501
+AK,Northwest Arctic Borough,2188,Kotzebue Wind Project2,2006,1,0.066,3,3,-162.557343,66.835022
+CA,San Diego County,6073,Kumeyaay Phase I,2005,25,50.0,3,3,-116.333092,32.709293
+IL,Coles County,17029,LLC 1,2011,1,-9999.0,1,3,-88.387367,39.417534
+MN,Lac qui Parle County,27073,Lac qui Parle Valley School,1997,1,0.23,2,3,-96.056305,45.07328
+MN,Lincoln County,27081,Lake Benton I,1998,143,107.25,3,3,-96.301544,44.277802
+MN,Pipestone County,27117,Lake Benton II,1999,138,103.5,3,3,-96.159996,44.17638
+MI,Mason County,26105,Lake Winds,2012,56,100.8,3,3,-86.390594,43.888592
+MN,Jackson County,27063,Lakefield,2011,137,205.5,3,3,-95.102791,43.628391
+WI,Manitowoc County,55071,Lakeshore Technical College,2010,3,-9999.0,2,3,-87.757797,43.924892
+MN,Clay County,27027,Lakeswind,2014,32,48.0,3,3,-96.241287,46.686993
+MN,Lincoln County,27081,Lakota Ridge,1999,15,11.25,3,3,-96.442688,44.387291
+MN,Martin County,27091,Lakota Wind,2005,2,1.9,3,3,-94.452629,43.571186
+HI,Hawaii County,15001,Lalamilo Wells Repowering,2017,5,3.3,3,3,-155.767197,19.986536
+CO,Prowers County,8099,Lamar Municipal,2004,3,4.5,3,3,-102.537888,38.033295
+ND,Cavalier County,38019,Langdon,2007,79,118.5,3,3,-98.308487,48.687592
+ND,Cavalier County,38019,Langdon - OTP,2008,27,40.5,3,3,-98.258492,48.744091
+ND,Cavalier County,38019,Langdon II,2008,27,40.5,3,3,-98.225288,48.610592
+TX,Tom Green County,48451,Langford,2009,100,150.0,3,3,-100.646194,31.132195
+NE,Boone County,31011,Laredo Ridge,2011,54,81.0,3,3,-98.014389,41.889091
+UT,San Juan County,49037,Latigo,2016,27,62.1,3,3,-109.381065,37.894745
+IA,Marshall County,19127,Laurel,2011,52,119.6,3,3,-92.986496,41.891491
+PA,Lycoming County,42081,Laurel Hill,2012,30,69.0,3,3,-77.050095,41.526093
+WV,Barbour County,54001,Laurel Mountain,2011,61,97.6,3,3,-79.895798,38.977192
+OR,Gilliam County,41021,Leaning Juniper,2006,67,100.5,3,3,-120.199654,45.650368
+OR,Gilliam County,41021,Leaning Juniper II,2011,43,90.3,3,3,-120.294685,45.636192
+IL,DeKalb County,17037,Lee/DeKalb,2009,145,217.5,3,3,-88.934891,41.853394
+NH,Sullivan County,33019,Lempster,2008,12,24.0,3,3,-72.139702,43.22739
+OR,Baker County,41001,Lime Wind,2011,6,3.0,3,3,-117.274719,44.395401
+CO,Lincoln County,8073,Limon I,2012,125,200.0,3,3,-103.630692,39.423893
+CO,Lincoln County,8073,Limon II,2012,125,200.0,3,3,-103.572792,39.311092
+CO,Lincoln County,8073,Limon III,2014,118,200.6,3,3,-103.326759,39.348705
+WI,Kewaunee County,55061,Lincoln Wind Energy Facility,1999,14,9.24,2,3,-87.564293,44.613392
+ND,Williams County,38105,Lindahl,2017,75,150.0,3,3,-102.901024,48.55706
+WA,Klickitat County,53039,Linden,2010,25,50.0,3,3,-120.788185,45.740795
+OK,Washita County,40149,Little Elk,2015,37,74.0,3,3,-98.916138,35.214062
+TX,Carson County,48065,Llano Estacado Wind Ranch at White Deer,2001,80,80.0,3,3,-101.226891,35.465096
+PA,Columbia County,42037,Locust Ridge,2006,13,26.0,3,3,-76.319824,40.812164
+PA,Schuylkill County,42107,Locust Ridge II,2009,51,102.0,3,3,-76.162598,40.848091
+MO,Atchison County,29005,Loess Hills Wind Project,2008,4,5.0,3,3,-95.541489,40.407791
+TX,Comanche County,48093,Logan's Gap Wind,2015,87,200.1,3,3,-98.72538,31.840368
+TX,Shackelford County,48417,Lone Star I,2007,88,176.0,3,3,-99.503593,32.614796
+TX,Callahan County,48059,Lone Star II,2008,78,156.0,3,3,-99.498489,32.482395
+TX,Briscoe County,48045,Longhorn,2015,100,200.0,3,3,-101.282959,34.315334
+PA,Somerset County,42111,Lookout,2008,18,37.8,3,3,-78.943794,39.853191
+TX,Mitchell County,48335,Loraine,2010,67,100.5,3,3,-100.780594,32.444794
+TX,Mitchell County,48335,Loraine II,2011,100,150.0,3,2,-100.715294,32.431194
+TX,Willacy County,48489,Los Vientos I,2012,87,200.1,3,3,-97.639191,26.326397
+TX,Willacy County,48489,Los Vientos II,2012,84,201.6,3,3,-97.709694,26.338495
+TX,Starr County,48427,Los Vientos III,2015,100,200.0,3,3,-98.584999,26.507795
+TX,Starr County,48427,Los Vientos IV,2016,100,200.0,3,3,-98.679062,26.567434
+TX,Starr County,48427,Los Vientos V,2015,55,110.0,3,3,-98.58197,26.376295
+MO,DeKalb County,29063,Lost Creek Ridge Wind Farm,2010,99,148.5,3,3,-94.49279,39.983791
+IA,Dickinson County,19059,Lost Lakes Wind Farm,2009,61,100.65,3,3,-95.275093,43.335491
+WA,Klickitat County,53039,Lower Davenport,-9999,14,35.0,1,1,-120.553085,45.769493
+WA,Garfield County,53023,Lower Snake River Phase I,2011,94,216.2,3,3,-117.803589,46.507893
+TX,Lubbock County,48303,Lubbock Wind Ranch,2010,1,2.5,3,3,-101.758888,33.569294
+IA,Webster County,19187,Lundgren,2014,107,251.022,3,3,-94.230484,42.314442
+IA,Winneshiek County,19191,Luther College,2011,1,1.6,3,3,-91.817696,43.309093
+ND,Steele County,38091,Luverne,2009,33,49.5,3,3,-97.918694,47.349491
+MA,Suffolk County,25025,MWRA Deer Island,2009,2,1.2,3,3,-70.957298,42.347092
+NM,Luna County,35029,Macho Springs Wind Farm I,2011,28,50.4,3,3,-107.503189,32.568394
+IA,Madison County,19121,Macksburg,2014,51,119.646,3,3,-94.154694,41.193153
+NY,Madison County,36053,Madison Windpower,2000,7,11.55,3,3,-75.457497,42.894192
+TX,Willacy County,48489,Magic Valley,2012,112,203.28,3,3,-97.686996,26.442295
+TX,Carson County,48065,Majestic,2009,53,79.5,3,3,-101.525589,35.445293
+TX,Carson County,48065,Majestic II,2012,20,30.0,3,3,-101.607391,35.398495
+OK,Dewey County,40043,Mammoth Plains,2014,117,198.9,3,3,-98.658051,35.936405
+CA,Kern County,6029,Manzana Winds,2012,126,189.0,3,3,-118.47049,34.957096
+NY,Lewis County,36049,Maple Ridge,2006,112,184.8,3,3,-75.549095,43.758392
+NY,Lewis County,36049,Maple Ridge (Lowville),2005,83,136.95,3,3,-75.648399,43.793991
+NY,Clinton County,36019,Marble River,2012,70,215.25,3,3,-73.921295,44.944092
+WA,Columbia County,53013,Marengo I,2007,78,140.4,3,3,-117.824585,46.389793
+WA,Columbia County,53013,Marengo II,2008,39,70.2,3,3,-117.840088,46.348995
+TX,Parmer County,48369,Mariah North Wind,2016,96,230.4,3,3,-102.710686,34.718403
+ME,Aroostook County,23003,Mars Hill,2006,6,9.0,3,3,-67.808037,46.562889
+NY,Steuben County,36101,Marsh Hill,2014,10,16.2,3,3,-77.497574,42.175323
+MN,Lyon County,27083,Marshall,2008,9,18.9,3,3,-95.788589,44.321091
+KS,Marshall County,20117,Marshall Wind Energy,2016,36,72.0,3,3,-96.379799,39.851624
+MT,Wheatland County,30107,Martinsdale Colony South,2007,8,2.0,2,3,-110.271782,46.496918
+MT,Wheatland County,30107,Martinsdale Wind Farm,2005,11,0.715,3,3,-110.271797,46.498966
+IA,Delaware County,19055,Mason Wind LLC Dyersville,2017,3,6.0,3,3,-91.224876,42.493935
+IA,Cerro Gordo County,19033,Mason Wind LLC Mason City,2017,5,10.0,3,3,-93.234535,43.095833
+MA,Barnstable County,25001,Massachusetts Maritime Academy,2006,1,0.66,3,3,-70.623802,41.74139
+TX,Dickens County,48125,McAdoo,2008,100,150.0,3,3,-101.000587,33.749596
+WY,Albany County,56001,McFadden Ridge,2009,19,28.5,3,3,-106.056992,41.653492
+MI,Huron County,26063,McKinley Wind Park,2012,9,14.4,3,3,-83.244698,43.871292
+MN,Dodge County,27039,McNeilus,2002,10,9.0,3,3,-92.840378,43.972195
+ID,Bonneville County,16019,Meadow Creek,2012,57,119.7,3,3,-111.778191,43.558594
+IN,White County,18181,Meadow Lake,2009,121,199.65,3,3,-86.897491,40.68869
+IN,White County,18181,Meadow Lake II,2010,66,99.0,3,3,-87.060394,40.628792
+IN,White County,18181,Meadow Lake III,2010,69,103.5,3,3,-87.041695,40.614292
+IN,White County,18181,Meadow Lake IV,2010,47,98.7,3,3,-86.986694,40.684692
+IN,White County,18181,Meadow Lake V,2017,50,100.0,3,3,-87.034554,40.700699
+IA,Adair County,19001,Meadow Ridge,2012,1,1.6,3,3,-94.446289,41.390095
+WY,Carbon County,56007,Medicine Bow,1998,2,1.3,3,3,-106.246689,41.839893
+PA,Wyoming County,42131,Mehoopany,2012,65,104.0,3,3,-76.091805,41.44841
+IL,Lee County,17103,Mendota Hills,2003,63,50.4,3,3,-89.045647,41.730942
+KS,Cloud County,20029,Meridian Way,2008,35,105.0,3,3,-97.526695,39.399593
+KS,Cloud County,20029,Meridian Way II,2008,32,96.0,3,3,-97.710495,39.419693
+CA,Riverside County,6065,Mesa Wind Farm,1983,460,29.9,3,3,-116.679787,33.944695
+NM,Quay County,35037,Mesalands,2008,1,1.5,3,3,-103.738991,35.169693
+TX,Dawson County,48115,Mesquite Creek,2015,118,211.22,3,3,-101.772537,32.714718
+MN,Sherburne County,27141,"Metro Wind, LLC",2001,1,0.66,3,3,-93.560692,45.378792
+PA,Somerset County,42111,Meyersdale,2003,20,30.0,3,3,-78.999893,39.793793
+TX,Hemphill County,48211,Miami,2014,156,288.6,3,3,-100.427849,35.647263
+MI,Huron County,26063,Michigan Wind I,2008,46,69.0,3,3,-82.967697,43.705891
+MI,Sanilac County,26151,Michigan Wind II,2011,50,90.0,3,3,-82.684593,43.631493
+UT,Beaver County,49001,Milford Phase I,2009,58,145.0,3,3,-112.894989,38.537292
+UT,Millard County,49027,Milford Phase II,2011,68,102.0,3,3,-112.972389,38.579693
+PA,Fayette County,42051,Mill Run Windpower LLC,2001,10,15.0,3,3,-79.392899,39.915394
+ID,Cassia County,16031,Milner Dam,2011,13,19.5,3,3,-114.019089,42.456196
+NM,Roosevelt County,35041,Milo,2016,15,30.0,3,3,-103.357239,33.903061
+MN,Rock County,27133,MinWind I & II,2002,4,3.8,3,3,-96.31369,43.551594
+MN,Rock County,27133,MinWind III-IX,2004,7,11.55,3,3,-96.38559,43.633793
+OK,Grady County,40051,Minco II,2011,63,100.8,3,3,-98.032791,35.342995
+OK,Caddo County,40015,Minco III,2012,63,100.8,3,3,-98.168892,35.329594
+OK,Grady County,40051,Minco Wind,2010,62,99.2,3,3,-98.032494,35.280594
+MI,Sanilac County,26151,Minden Wind Park,2012,20,32.0,3,3,-82.784393,43.647591
+SD,Brookings County,46011,Minn-Dakota,2007,36,54.0,3,3,-96.502495,44.357292
+ND,Nelson County,38063,Minnkota Power Cooperative,2002,1,0.9,2,3,-97.930992,48.008793
+IL,Woodford County,17203,Minonk,2012,100,200.0,3,3,-88.952095,40.845093
+MN,Nobles County,27105,Missouri River Energy Services (MRES),2002,4,3.6,3,3,-95.682388,43.622692
+CA,Solano County,6095,Montezuma,2010,16,36.8,3,3,-121.799187,38.172394
+CA,Solano County,6095,Montezuma Winds II,2012,34,78.2,3,3,-121.805687,38.113895
+WI,Iowa County,55049,Montfort Wind Farm,2001,20,30.0,2,3,-90.395103,42.962719
+MN,Murray County,27101,Moraine II,2009,33,49.5,3,3,-96.016495,44.074291
+MN,Pipestone County,27117,Moraine Wind Power project,2003,34,51.0,3,3,-96.072693,44.056293
+IA,Adair County,19001,Morning Light,2012,44,101.2,3,3,-94.552292,41.456192
+MN,Murray County,27101,"Moulton, Chandler Hills Wind Farm Phase II",2001,3,1.98,3,3,-95.953194,43.899693
+ID,Elmore County,16039,Mountain Home,2009,20,42.0,3,3,-115.483589,43.046295
+MN,Cottonwood County,27033,Mountain Lake Wind,2007,1,1.25,2,3,-94.943382,43.940548
+CA,Riverside County,6065,Mountain View IV,2012,49,49.0,3,3,-116.562286,33.883396
+CA,Riverside County,6065,Mountain View Power Partners I,2001,73,43.8,2,3,-116.578186,33.903595
+CA,Riverside County,6065,Mountain View Power Partners I & II,2001,111,66.6,3,3,-116.624199,33.914131
+CA,Riverside County,6065,Mountain View Power Partners II,2001,37,22.2,2,3,-116.584938,33.893116
+CA,Riverside County,6065,Mountain View Power Partners III,2003,34,22.44,3,3,-116.591591,33.917294
+WY,Uinta County,56041,Mountain Wind I,2008,29,60.9,3,3,-110.520287,41.285995
+WY,Uinta County,56041,Mountain Wind II,2008,38,79.8,3,3,-110.536385,41.244194
+WV,Tucker County,54093,Mountaineer Wind Energy Center (Thomas),2002,44,66.0,3,3,-79.529358,39.189865
+MN,Mower County,27099,Mower County Wind Energy Center,2006,43,98.9,3,3,-92.576492,43.599892
+TX,Kent County,48263,Mozart,2012,12,30.0,3,3,-100.523994,32.969494
+NY,Madison County,36053,Munnsville,2007,23,34.5,3,3,-75.569801,42.908489
+MT,Wheatland County,30107,Musselshell I,2012,7,10.0,3,3,-109.471786,46.286991
+MT,Wheatland County,30107,Musselshell II,2012,7,10.0,3,3,-109.501289,46.265892
+CA,Kern County,6029,Mustang Hills,2012,6,18.0,3,3,-118.241188,35.026695
+CO,Jefferson County,8059,NREL - NWTC,2009,6,7.1,3,3,-105.220001,39.912083
+WV,Grant County,54023,"NedPower Mount Storm, Phase I",2008,82,164.0,3,3,-79.247795,39.174892
+WV,Grant County,54023,"NedPower Mount Storm, Phase II",2008,50,100.0,3,3,-79.172997,39.274193
+IA,Emmet County,19063,Neppel Wind Power Project,2004,1,1.5,3,3,-94.579018,43.401993
+IA,Story County,19169,Nevada High School,1993,2,0.4,3,3,-93.437195,42.020992
+WV,Grant County,54023,New Creek Wind,2016,45,94.5,3,3,-79.12178,39.23848
+IA,Crawford County,19047,New Harvest,2012,50,100.0,3,3,-95.48259,42.148594
+NM,De Baca County,35011,New Mexico Wind Energy Center,2003,136,204.0,3,3,-104.036095,34.601192
+NY,Chautauqua County,36013,New York State Thruway Authority,2015,4,1.1,3,3,-79.5868,42.339123
+WA,Benton County,53005,Nine Canyon,2002,37,48.1,3,3,-119.110527,46.082073
+WA,Benton County,53005,Nine Canyon I,2002,37,48.1,3,3,-119.070824,46.105042
+WA,Benton County,53005,Nine Canyon II,2003,12,15.6,3,3,-119.149185,46.106094
+WA,Benton County,53005,Nine Canyon III,2008,14,32.2,3,3,-119.075989,46.091293
+KS,Pratt County,20151,Ninnescah,2016,111,190.365,3,3,-98.657753,37.592613
+MA,Plymouth County,25023,No Fossil Fuel - Kingston,2012,3,6.0,3,3,-70.725098,41.971592
+NY,Clinton County,36019,Noble Altona,2009,65,97.5,3,3,-73.646797,44.815392
+NY,Wyoming County,36121,Noble Bliss,2008,67,100.5,3,3,-78.305,42.53429
+NY,Franklin County,36033,Noble Chateaugay,2009,71,106.5,3,3,-74.031898,44.880192
+NY,Clinton County,36019,Noble Clinton,2008,67,100.5,3,3,-73.990196,44.937992
+NY,Clinton County,36019,Noble Ellenburg,2008,54,81.0,3,3,-73.963898,44.866192
+TX,Hansford County,48195,Noble Great Plains,2009,76,114.0,3,3,-101.359894,36.438694
+NY,Wyoming County,36121,Noble Wethersfield,2009,84,126.0,3,3,-78.286194,42.593193
+MN,Nobles County,27105,Nobles,2010,134,201.0,3,3,-95.778091,43.64019
+MN,Jackson County,27063,Nobles Cooperative Electric,2008,1,2.1,3,3,-95.437294,43.718594
+AK,Nome Census Area,2180,Nome,2008,18,0.9,3,3,-165.43277,64.562401
+CA,Riverside County,6065,Nordex Energy,2000,10,10.0,2,3,-116.632889,33.942196
+MN,Lincoln County,27081,Norgaard (7 Projects),2006,7,8.75,3,3,-96.433289,44.287891
+PA,Blair County,42013,North Allegheny,2009,35,70.0,3,3,-78.541595,40.43729
+ND,LaMoure County,38045,North Dakota Wind I,2003,27,40.5,3,3,-98.898788,46.338291
+ND,LaMoure County,38045,North Dakota Wind II,2003,14,21.0,3,3,-98.894989,46.318394
+OR,Gilliam County,41021,North Hurlburt,2012,24,60.0,3,3,-120.082184,45.746895
+IN,Newton County,18111,North Newton School Corporation,2012,1,0.9,3,3,-87.42627,41.032585
+MN,Lincoln County,27081,North Shaokatan Wind Farm,2000,18,11.88,3,3,-96.431992,44.42609
+CA,Kern County,6029,North Sky River,2012,100,162.0,3,3,-118.177284,35.353294
+CO,Logan County,8075,Northeast Colorado Wind,2009,66,151.8,3,3,-102.857391,40.972492
+IN,Howard County,18067,Northwestern School Corporation,2012,1,0.9,3,3,-86.204498,40.523193
+TX,Winkler County,48495,Notrees,2009,55,90.75,3,3,-102.819695,32.019493
+IA,O'Brien County,19141,O'Brien,2016,91,219.765,3,3,-95.591454,43.235374
+OK,Woodward County,40153,OK Wind Energy Center(mooreland),2003,68,102.0,2,3,-99.286255,36.580067
+OH,Hardin County,39065,ONU Wind,2010,3,1.2,2,3,-83.843292,40.76519
+OK,Woodward County,40153,OU Spirit,2009,44,101.2,3,3,-99.492493,36.335495
+CA,Kern County,6029,Oak Creek,1999,33,23.1,2,3,-118.347404,35.034237
+CA,Kern County,6029,Oak Creek Energy Systems,1999,16,7.669,2,3,-118.36689,35.042095
+MN,Steele County,27147,Oak Glen Wind Project,2011,24,43.2,3,3,-93.098991,43.924294
+SD,Clark County,46025,Oak Tree,2014,11,19.5,3,3,-97.766708,44.961964
+ME,Aroostook County,23003,Oakfield Wind,2015,48,147.6,3,3,-68.127586,46.055862
+CA,Kern County,6029,Oasis Power Partners,2004,60,60.0,2,3,-118.304985,35.062294
+TX,Howard County,48227,Ocotillo,2008,28,58.8,3,3,-101.408394,32.147495
+CA,Imperial County,6025,Ocotillo Wind I,2012,94,222.78,3,3,-115.978889,32.766693
+MN,Cottonwood County,27033,Odell,2016,100,200.0,3,3,-94.932961,43.854683
+MN,Cottonwood County,27033,Odin,2008,10,20.0,3,3,-94.861366,43.849442
+TX,Floyd County,48153,Old Settler Wind,2017,63,151.2,3,3,-101.107117,34.029095
+ND,Oliver County,38065,Oliver County Wind Energy Center,2006,22,50.6,3,3,-101.21669,47.142391
+ND,Oliver County,38065,Oliver II,2007,32,48.0,3,3,-101.274193,47.163193
+ND,Morton County,38059,Oliver III,2017,43,90.3,3,3,-101.212097,46.962051
+NE,Douglas County,31055,Omaha Public,2001,1,0.66,3,3,-96.37529,41.331379
+NY,Wyoming County,36121,Orangeville Wind,2013,52,84.24,3,3,-78.209297,42.772091
+ID,Twin Falls County,16083,Oregon Trail,2011,9,13.5,3,3,-114.990288,42.842194
+OK,Murray County,40099,Origin,2014,75,150.0,3,3,-97.252151,34.418663
+OK,Osage County,40113,Osage Wind,2015,84,150.36,3,3,-96.714371,36.719193
+MO,DeKalb County,29063,Osborn,2016,88,184.8,3,1,-94.466713,39.814548
+TX,Lubbock County,48303,PYCO Soaring Wind Farm,2008,10,10.0,3,3,-101.790192,33.549694
+OR,Sherman County,41055,PaTu Wind Farm,2010,6,9.0,3,3,-120.617287,45.612095
+CA,Kern County,6029,Pacific Wind,2012,70,143.5,3,3,-118.418991,34.920296
+CA,Riverside County,6065,Painted Hills,1985,169,15.21,2,3,-116.630249,33.938465
+HI,Hawaii County,15001,Pakini Nui (KA'ALUALU),2007,14,21.0,2,3,-155.690063,18.966799
+CA,Riverside County,6065,Palm Springs (repower),2011,33,49.5,3,3,-116.564888,33.908394
+TX,Hansford County,48195,Palo Duro,2014,147,249.9,3,3,-101.086998,36.342415
+WA,Whitman County,53075,Palouse,2012,58,104.4,3,3,-117.328789,47.162193
+TX,Carson County,48065,Panhandle Wind 1,2014,118,218.3,2,3,-101.231888,35.401695
+TX,Carson County,48065,Panhandle Wind 2,2014,79,181.7,2,3,-101.225983,35.377808
+TX,Carson County,48065,Pantex Renewable Energy Project,2014,5,11.5,3,3,-101.525291,35.322693
+TX,Howard County,48227,Panther Creek I,2008,95,142.5,3,3,-101.467491,32.110596
+TX,Glasscock County,48173,Panther Creek II,2009,77,115.5,3,3,-101.292587,31.930695
+TX,Sterling County,48431,Panther Creek III,2009,133,199.5,3,3,-101.106491,31.998695
+TX,San Patricio County,48409,Papalote Creek,2009,109,179.85,3,3,-97.459991,27.949394
+TX,San Patricio County,48409,Papaolote Creek II,2010,87,200.1,3,3,-97.305099,27.989185
+ME,Penobscot County,23019,Passadumkeag,2016,13,42.9,3,3,-68.380867,45.130032
+ME,Waldo County,23027,Patriot,2008,3,4.5,3,3,-69.338287,44.491611
+CA,Alameda County,6001,Patterson Pass,1985,201,13.065,3,3,-121.606689,37.689896
+CA,Alameda County,6001,Patterson Wind,1985,73,7.28,3,3,-121.613785,37.706394
+PA,Cambria County,42021,Patton Wind Farm,2012,15,30.0,3,3,-78.670898,40.647091
+ID,Twin Falls County,16083,Payne's Ferry,2010,14,21.0,3,3,-115.010986,42.827995
+CO,Las Animas County,8071,Peak View Wind,2016,34,60.86,3,3,-104.506775,37.650852
+OR,Gilliam County,41021,Pebble Springs,2009,47,98.7,3,3,-120.095985,45.686893
+CO,Logan County,8075,Peetz Table,2007,267,400.5,3,3,-103.465088,40.989693
+CO,Logan County,8075,Peetz Table Wind Farm,2001,33,29.7,3,3,-103.14579,40.95319
+TX,Kenedy County,48261,Penescal,2009,84,201.6,3,3,-97.51519,27.117596
+TX,Kenedy County,48261,Penescal II,2010,84,201.6,3,3,-97.580696,27.123695
+AZ,Coconino County,4005,Perrin Ranch,2012,62,99.2,3,3,-112.219688,35.437794
+NE,Boone County,31011,Petersburg,2011,27,40.5,3,3,-97.916794,41.866493
+MI,Huron County,26063,Pheasant Run I,2013,44,74.8,3,3,-83.246391,43.796993
+OH,Lorain County,39093,Pick-a-Part Turbine,2012,1,0.1,2,3,-81.946899,41.326893
+ID,Twin Falls County,16083,Pilgrim Stage Station,2011,7,10.5,3,3,-115.000885,42.784595
+IL,Kankakee County,17091,Pilot Hill,2015,103,175.1,3,3,-88.033394,41.018444
+CA,Kern County,6029,Pine Tree Wind Farm,2009,80,120.0,3,3,-118.193886,35.245193
+CA,Kern County,6029,Pine Tree extension,2010,10,15.0,3,3,-118.171288,35.236897
+WV,Mineral County,54057,Pinnacle,2011,15,36.0,3,3,-79.050896,39.421391
+MI,Huron County,26063,Pinnebog,2016,30,51.0,3,3,-83.114685,43.824326
+CA,Kern County,6029,Pinyon Pines I,2012,56,168.0,3,3,-118.21479,35.068794
+CA,Kern County,6029,Pinyon Pines II,2012,44,132.0,3,3,-118.21759,35.010593
+IA,Cedar County,19031,Pioneer Grove,2012,1,3.0,3,3,-91.234192,41.850891
+IA,Howard County,19089,Pioneer Prairie I,2008,120,198.0,3,3,-92.527992,43.462791
+IA,Mitchell County,19131,Pioneer Prairie II,2008,19,31.35,3,3,-92.743446,43.464806
+IL,Ford County,17053,Pioneer Trail,2011,94,150.4,3,3,-87.997192,40.468292
+WY,Converse County,56009,Pioneer Wind Park,2016,46,85.1,3,3,-105.878281,42.68375
+ME,Penobscot County,23019,Pisgah Mountain,2016,5,9.0,3,3,-68.523338,44.77742
+TX,Crosby County,48107,Pleasant Hill,2015,5,9.0,3,3,-101.42691,33.745346
+MN,Mower County,27099,Pleasant Valley,2015,100,200.0,3,3,-92.757996,43.734081
+IA,Pocahontas County,19151,Pocahontas Prairie,2012,40,80.0,3,3,-94.651093,42.623093
+IA,Pocahontas County,19151,Pomeroy (expansion),2011,13,29.9,3,3,-94.76519,42.56179
+IA,Pocahontas County,19151,Pomeroy I,2007,82,123.0,3,3,-94.72509,42.612091
+IA,Pocahontas County,19151,Pomeroy II,2007,49,73.5,3,3,-94.769791,42.590691
+IA,Pocahontas County,19151,Pomeroy III,2008,39,58.5,3,3,-94.802391,42.61869
+CO,Weld County,8123,Ponnequin (EUI),1999,7,5.1,3,3,-104.811028,40.998688
+CO,Weld County,8123,Ponnequin (PSCo),2001,15,9.9,3,3,-104.794792,40.997993
+CO,Weld County,8123,Ponnequin 1 and 2,1999,28,21.75,3,3,-104.82859,40.993793
+WI,Milwaukee County,55079,Port of Milwaukee,2012,1,0.1,3,3,-87.890839,43.003372
+KS,Ellsworth County,20053,Post Rock,2012,134,201.0,3,3,-98.297195,38.831493
+ID,Power County,16077,Power County,2011,18,45.0,3,3,-112.769188,42.711494
+IA,Mahaska County,19123,Prairie,2017,82,164.0,3,3,-92.743645,41.442051
+NE,Antelope County,31003,Prairie Breeze,2014,118,200.6,3,3,-98.091988,41.916992
+NE,Antelope County,31003,Prairie Breeze II,2015,41,73.5,3,3,-97.861618,41.973503
+NE,Antelope County,31003,Prairie Breeze III,2016,20,35.8,3,3,-98.036926,41.989227
+IA,Mahaska County,19123,Prairie II,2018,2,4.0,3,3,-92.729187,41.461643
+MN,Rock County,27133,Prairie Rose,2012,119,199.92,3,3,-96.22509,43.808792
+MN,Mower County,27099,Prairie Star,2008,1,1.65,3,3,-92.634995,43.637291
+ND,Ward County,38101,Prairie Winds Minot Wind 2,2009,3,4.5,3,3,-101.303566,47.925968
+ND,Ward County,38101,Prairie Winds ND 1,2009,77,115.5,3,3,-101.300987,47.897293
+ME,Aroostook County,23003,Presque Isle,2009,1,0.6,3,3,-68.020203,46.667389
+OR,Baker County,41001,Prospector,2017,5,10.0,3,3,-117.25737,44.416992
+IL,Bureau County,17011,Providence Heights,2008,36,72.0,3,3,-89.594933,41.253242
+CO,Pueblo County,8101,Pueblo Towers,2010,1,1.8,3,3,-104.621391,38.163395
+PR,Naguabo Municipio,72103,Punta Lima,2012,13,23.4,3,3,-65.698036,18.199654
+TX,Scurry County,48415,Pyron (Roscoe III),2009,166,249.0,3,3,-100.668594,32.595993
+WI,Lafayette County,55065,Quilt Block,2017,49,98.0,3,3,-90.243439,42.619469
+IL,Macon County,17115,Radford's Run,2017,139,305.8,3,3,-88.977432,39.990723
+IL,Tazewell County,17179,Rail Splitter,2009,67,100.5,3,3,-89.477493,40.375793
+TX,Crosby County,48107,Ralls Wind Farm,2011,5,10.0,3,3,-101.394089,33.661293
+TX,Glasscock County,48173,Rattlesnake,2015,118,207.0,3,3,-101.457092,31.747154
+OR,Gilliam County,41021,Rattlesnake Road,2008,49,102.9,3,3,-120.212585,45.698593
+TX,McCulloch County,48307,Rattlesnake Wind,2018,64,160.0,3,3,-99.567902,31.253998
+ME,Oxford County,23017,Record Hill,2011,22,50.6,3,3,-70.632301,44.67569
+TX,Garza County,48169,Red Canyon Wind Energy,2006,56,84.0,2,3,-101.220215,32.972195
+OK,Kingfisher County,40073,Red Dirt,2017,95,299.25,3,3,-97.740601,36.020142
+OK,Roger Mills County,40129,Red Hills,2008,82,123.0,3,3,-99.432091,35.531296
+AZ,Cochise County,4003,Red Horse 2,2015,15,30.0,3,3,-110.090347,32.270775
+NM,Cibola County,35006,Red Mesa,2010,64,102.4,3,3,-107.392593,35.244892
+MN,Lincoln County,27081,Red Pine,2017,50,100.0,3,2,-96.235863,44.469845
+OK,Grady County,40051,Redbed Plains,2017,17,34.0,3,3,-97.894234,35.241924
+MN,Redwood County,27127,Redwood Falls (SMMPA),2005,2,3.3,3,3,-95.175896,44.501591
+MN,Pipestone County,27117,Ridgewind,2010,11,25.3,3,3,-96.080894,44.009693
+MT,Toole County,30101,Rim Rock,2012,126,189.0,3,3,-112.04879,48.838894
+PA,Somerset County,42111,Ringer Hill,2016,14,39.9,3,3,-79.201065,39.728497
+IA,Greene County,19073,Rippey,2012,20,50.0,3,3,-94.185989,41.996994
+CA,Kern County,6029,Rising Tree North,2014,30,99.0,3,3,-118.23185,35.091949
+CA,Kern County,6029,Rising Tree South,2015,30,99.0,3,3,-118.2593,35.063129
+MO,Atchison County,29005,Rock Creek,2017,150,300.0,3,3,-95.26545,40.442753
+OK,Grant County,40053,Rock Falls,2017,51,133.875,3,3,-97.486862,36.932522
+WY,Carbon County,56007,Rock River I,2001,50,50.0,2,3,-106.095978,41.722233
+ID,Power County,16077,Rockland,2011,44,79.2,3,3,-112.89769,42.693195
+TX,Val Verde County,48465,Rocksprings,2017,53,121.9,3,3,-100.781845,29.767706
+OK,Washita County,40149,Rocky Ridge I,2012,93,148.8,3,3,-99.04129,35.185894
+IA,Cass County,19029,Rolling Hills,2011,193,443.9,3,3,-94.734589,41.263695
+ME,Penobscot County,23019,Rollins,2011,40,60.0,3,3,-68.360901,45.402592
+NM,Roosevelt County,35041,Roosevelt,2015,125,250.0,3,3,-103.503563,33.942787
+TX,Mitchell County,48335,Roscoe,2008,209,209.0,3,3,-100.661995,32.441494
+IA,Cass County,19029,Roseman Energy LLC,2017,1,1.79,3,3,-94.753922,41.373135
+WI,Kewaunee County,55061,Rosiere Wind Farm,1999,17,11.22,3,3,-87.630363,44.664154
+MD,Garrett County,24023,Roth Rock,2011,20,50.0,3,3,-79.445099,39.277592
+TX,Carson County,48065,Route 66,2015,75,150.0,3,3,-101.455269,35.212635
+ND,Pierce County,38069,Rugby,2009,71,149.1,3,3,-100.016487,48.51099
+OK,Grady County,40051,Rush Springs Wind Energy Center,2016,120,249.0,3,3,-97.83329,34.699127
+MN,Lincoln County,27081,Ruthton Wind Farm,2001,24,15.84,3,3,-96.219292,44.22739
+WI,Racine County,55101,SC Johnson Waxdale Plant,2012,2,3.0,3,3,-87.888039,42.713242
+ME,Franklin County,23007,Saddleback Ridge,2015,9,25.65,3,3,-70.367958,44.614189
+CA,San Joaquin County,6077,Safeway Tracy,2011,2,2.0,3,3,-121.521889,37.714294
+WA,Kittitas County,53037,Sagebrush (Kittitas Valley),2010,48,100.8,3,3,-120.713486,47.144093
+ID,Twin Falls County,16083,Salmon Falls,2011,14,21.0,3,3,-115.005684,42.684692
+TX,Donley County,48129,Salt Fork,2016,87,174.0,3,3,-100.937035,35.176334
+CA,Los Angeles County,6037,San Clemente Island,1998,3,0.675,3,3,-118.55278,32.987331
+CA,Riverside County,6065,San Gorgonio Farms Wind Farm,1984,112,31.0,3,3,-116.617676,33.925053
+CA,Riverside County,6065,San Gorgonio Westwinds II LLC,1999,14,9.8,3,3,-116.55619,33.895096
+CA,Riverside County,6065,San Gorgonio Wind Associates 7,1986,2,1.32,2,3,-116.58709,33.922096
+CA,Riverside County,6065,San Jacinto Power Company,1985,53,4.645,2,3,-116.562088,33.895893
+NM,Roosevelt County,35041,San Juan Mesa,2005,120,120.0,3,3,-103.769791,33.958996
+TX,Cameron County,48061,San Roman,2016,31,93.0,3,3,-97.361794,26.113384
+TX,Glasscock County,48173,Sand Bluff,2007,45,90.0,3,3,-101.315994,31.995195
+PA,Blair County,42013,Sandy Ridge,2012,25,50.0,3,3,-78.278999,40.726494
+RI,Newport County,44005,Sandywoods,2012,1,0.275,3,3,-71.1539,41.620491
+CA,Alameda County,6001,Santa Clara,1986,200,18.0,2,3,-121.651436,37.736496
+PR,Santa Isabel Municipio,72133,Santa Isabel,2012,44,101.2,3,3,-66.38028,17.989609
+TX,Reagan County,48383,Santa Rita,2018,120,300.0,3,3,-101.361938,31.151173
+ID,Elmore County,16039,Sawtooth,2011,14,22.4,3,3,-115.397087,42.990093
+VT,Bennington County,50003,Searsburg,1997,11,6.05,2,3,-72.962898,42.862591
+OK,Dewey County,40043,Seiling,2014,117,198.9,3,3,-99.041725,36.132782
+OK,Woodward County,40153,Seiling 2,2014,59,100.3,3,3,-98.971939,36.169384
+AK,Northwest Arctic Borough,2188,Selawik Wind Project,2004,3,0.15,3,3,-160.0186,66.608353
+TX,Jack County,48237,Senate,2012,75,150.0,3,3,-98.348892,33.179893
+TX,Jim Hogg County,48247,Sendero,2015,39,78.0,3,3,-98.912086,27.214991
+IA,Kossuth County,19109,Sentral Community School,1995,1,0.065,2,3,-94.388489,43.21059
+IL,Iroquois County,17075,Settler's Trail,2011,94,150.4,3,3,-87.533791,40.68869
+WY,Carbon County,56007,Seven Mile Hill I,2008,65,97.5,3,3,-106.425499,41.962044
+WY,Carbon County,56007,Seven Mile Hill I & II,2008,79,118.5,3,3,-106.411789,41.945091
+IL,Lee County,17103,Shady Oaks,2012,68,102.0,3,3,-89.106392,41.673092
+AK,Nome Census Area,2180,Shaktoolik,2012,2,0.2,3,3,-161.203964,64.360901
+TX,Clay County,48077,Shannon,2015,119,204.09,3,3,-98.335556,33.525208
+MN,Lincoln County,27081,Shaokatan Hills,1999,18,11.88,3,3,-96.429688,44.405193
+VT,Caledonia County,50005,Sheffield,2011,12,30.0,3,3,-72.096001,44.679489
+IN,Henry County,18065,Shenandoah School Corporation,2013,1,0.9,3,3,-85.523666,40.010242
+OR,Gilliam County,41021,Shepherds Flat,2011,82,205.0,3,3,-120.062386,45.746693
+TX,Pecos County,48371,Sherbino I,2008,50,150.0,3,3,-102.349388,30.811295
+TX,Pecos County,48371,Sherbino II,2011,60,150.0,3,3,-102.508293,30.771296
+CA,Solano County,6095,Shiloh II,2009,33,66.0,2,3,-121.858086,38.185696
+CA,Solano County,6095,Shiloh III,2011,46,94.3,3,3,-121.774284,38.179695
+CA,Solano County,6095,Shiloh IV,2012,45,92.25,3,3,-121.851784,38.145893
+CA,Solano County,6095,Shiloh Wind Project,2006,76,114.0,3,3,-121.877991,38.153194
+WI,Brown County,55009,Shirley,2010,8,20.0,3,3,-87.925194,44.359493
+KS,Kiowa County,20097,Shooting Star,2012,65,104.0,3,3,-99.443192,37.515694
+IA,Osceola County,19143,Sibley Wind Farm,1997,2,1.2,2,3,-95.649292,43.408596
+MI,Huron County,26063,Sigel Wind Park,2012,40,64.0,3,3,-82.786263,43.849331
+WY,Laramie County,56021,Silver Sage,2009,20,42.0,3,3,-105.035889,41.133194
+TX,Erath County,48143,Silver Star I,2008,24,60.0,3,3,-98.43399,32.329994
+CA,Kern County,6029,Sky River,1990,342,76.95,2,3,-118.23909,35.227894
+IA,Adair County,19001,Sky Volt,2012,1,1.68,3,3,-94.485191,41.290691
+KS,Sumner County,20191,Slate Creek,2015,75,150.0,3,3,-97.254517,37.124966
+OK,Harper County,40059,Sleeping Bear,2007,45,94.5,3,3,-99.494591,36.654095
+KS,Lincoln County,20105,Smoky Hills,2008,56,100.8,3,3,-98.036591,38.886093
+KS,Lincoln County,20105,Smoky Hills II,2008,99,148.5,3,3,-98.251694,38.888493
+TX,Scurry County,48415,Snyder,2007,21,63.0,3,3,-100.736893,32.731293
+CA,Solano County,6095,Solano Phase 3,2012,31,55.8,3,3,-121.803986,38.086594
+CA,Solano County,6095,Solano Phase IIA,2006,8,24.0,3,3,-121.775085,38.097294
+CA,Solano County,6095,Solano Wind Project,2007,21,63.0,3,3,-121.755585,38.091896
+CA,Solano County,6095,"Solano Wind Project, Phase I",2003,15,9.9,3,3,-121.76799,38.123596
+CA,Solano County,6095,"Solano Wind Project, Phase IA",2004,7,4.62,3,3,-121.775589,38.125195
+PA,Somerset County,42111,Somerset,2001,6,9.0,3,3,-79.010201,39.985394
+PA,Fayette County,42051,South Chestnut,2012,23,46.0,3,3,-79.745697,39.74279
+SD,Hyde County,46069,South Dakota,2003,27,40.5,3,3,-99.457138,44.379101
+SD,Brule County,46015,South Dakota Wind Partners,2011,7,10.5,3,3,-98.840691,43.918095
+MN,Jackson County,27063,South Fork,2016,6,13.8,3,3,-95.399506,43.599777
+OR,Gilliam County,41021,South Hurlburt,2012,116,290.0,3,3,-120.075584,45.683895
+TX,Floyd County,48153,South Plains,2015,100,200.0,3,3,-101.39695,34.10144
+TX,Floyd County,48153,South Plains II,2016,91,300.3,3,3,-101.383034,34.183681
+TX,Nolan County,48353,South Trent Mesa,2009,44,101.2,2,3,-100.258789,32.417194
+TX,Crockett County,48105,Southwest Mesa,1999,106,74.2,3,3,-102.056694,31.078695
+UT,Utah County,49049,Spanish Fork,2008,9,18.9,3,3,-111.58239,40.071495
+KS,Ford County,20057,Spearville,2006,67,100.5,2,3,-99.787209,37.872791
+KS,Ford County,20057,Spearville 3,2012,63,100.8,3,3,-99.803192,37.873093
+KS,Ford County,20057,Spearville I,2006,67,100.5,2,3,-99.707291,37.875694
+KS,Ford County,20057,Spearville II,2010,32,48.0,2,3,-99.714188,37.867195
+TX,Oldham County,48359,Spinning Spur 2,2014,87,160.95,3,3,-102.543091,35.296696
+TX,Oldham County,48359,Spinning Spur 3,2015,97,194.0,3,3,-102.731529,35.275944
+TX,Oldham County,48359,Spinning Spur Wind Ranch,2012,35,80.5,3,3,-102.428093,35.270794
+MT,Judith Basin County,30045,Spion Kop,2012,25,40.0,3,3,-110.65419,47.324593
+IA,Dickinson County,19059,Spirit Lake,2001,2,1.0,3,3,-95.099014,43.411377
+CO,Logan County,8075,Spring Canyon,2006,40,60.0,3,3,-103.025291,40.973492
+CO,Logan County,8075,Spring Canyon Expansion,2014,35,60.0,3,3,-102.967934,40.996132
+NV,White Pine County,32033,Spring Valley,2012,66,151.8,3,3,-114.493187,39.075092
+ME,Oxford County,23017,Spruce Mountain,2011,10,20.0,3,3,-70.560097,44.415691
+AK,Aleutians West Census Area,2016,St. Paul Island I,1999,1,0.225,3,3,-170.235947,57.157486
+TX,Martin County,48317,Stanton Energy Center,2008,80,120.0,3,3,-101.793991,32.240993
+OR,Sherman County,41055,Star Point,2010,47,98.7,3,3,-120.423386,45.541492
+WA,Walla Walla County,53071,Stateline Wind Project,2001,268,176.88,3,3,-118.805588,46.025494
+NY,Erie County,36029,Steel Winds,2007,8,20.0,3,3,-78.867996,42.818592
+NY,Erie County,36029,Steel Winds II,2012,6,15.0,3,3,-78.861,42.804893
+NE,Jefferson County,31095,Steele Flats,2013,44,74.8,3,3,-96.951981,40.018162
+TX,Borden County,48033,Stephens Ranch 1,2014,118,211.22,3,3,-101.625603,32.904503
+TX,Lynn County,48305,Stephens Ranch II,2015,92,164.68,3,3,-101.707901,32.973183
+NM,Lea County,35025,Sterling Phase I,2017,13,29.9,3,3,-103.307693,33.358902
+ME,Washington County,23029,Stetson,2009,38,57.0,3,3,-67.976799,45.52449
+ME,Washington County,23029,Stetson Wind expansion,2010,17,25.5,3,3,-67.978203,45.639091
+MI,Missaukee County,26113,Stoney Corners - Repower,2009,7,14.35,3,3,-85.332794,44.186192
+MI,Missaukee County,26113,Stoney Corners II,2010,9,18.45,3,3,-85.316399,44.17469
+MI,Missaukee County,26113,Stoney Corners III,2011,8,16.4,3,3,-85.266693,44.175491
+PA,Somerset County,42111,Stony Creek,2009,35,52.5,3,3,-78.816498,40.043293
+IA,Buena Vista County,19021,Storm Lake I,1999,145,108.75,3,3,-95.312119,42.767536
+IA,Buena Vista County,19021,Storm Lake II,1999,106,79.5,3,3,-95.382698,42.866592
+IA,Story County,19169,Story City Wind,2011,1,1.5,3,3,-93.598991,42.207893
+IA,Story County,19169,Story County,2008,100,150.0,3,3,-93.340393,42.14579
+IA,Story County,19169,Story II (aka Garden Wind),2009,100,150.0,3,3,-93.343697,42.172291
+ND,Stark County,38089,Sunflower,2016,52,104.0,3,3,-102.109894,46.829769
+TX,Moore County,48341,Sunray I,2009,7,10.5,3,3,-101.888191,35.935993
+TX,Moore County,48341,Sunray II,2009,26,39.0,3,3,-101.912689,35.965195
+CA,Solano County,6095,Superior Farms,2012,1,1.0,3,3,-121.81749,38.420094
+WA,Kittitas County,53037,Swauk Valley,2012,5,4.25,3,3,-120.754288,47.141693
+TX,Nolan County,48353,Sweetwater,2003,25,37.5,3,3,-100.328659,32.382778
+TX,Nolan County,48353,Sweetwater IVa,2007,135,135.0,3,3,-100.492294,32.309895
+TX,Nolan County,48353,Sweetwater IVb,2007,46,105.8,3,3,-100.493195,32.286594
+TX,Nolan County,48353,Sweetwater Phase II,2005,9,14.58,3,3,-100.393661,32.355812
+TX,Nolan County,48353,Sweetwater Phase III,2005,90,135.0,3,3,-100.431496,32.270294
+TX,Nolan County,48353,Sweetwater V,2007,35,80.5,3,3,-100.477089,32.235893
+OH,Henry County,39069,TJ Automation,2010,1,0.1,2,3,-84.30851,41.459095
+MN,St. Louis County,27137,Taconite Ridge Energy Center,2008,10,25.0,3,3,-92.601189,47.57299
+MD,Talbot County,24041,Talbot County DPW,2010,3,0.3,2,3,-76.031288,38.818398
+OK,Dewey County,40043,Taloga,2011,54,129.6,3,3,-98.886391,35.873196
+SD,McPherson County,46089,Tatanka,2008,59,88.5,3,3,-99.013489,45.912392
+CA,Monterey County,6053,Taylor Farms,2014,1,1.85,3,3,-121.451797,36.50515
+CA,Kern County,6029,Tehachapi Hills,1985,232,20.88,2,3,-118.343079,35.097141
+CA,Kern County,6029,Tehachapi Hills (85A),1985,157,14.13,2,3,-118.337463,35.101444
+CA,Kern County,6029,Tehachapi Hills (85B),1985,215,19.35,2,3,-118.335625,35.100819
+CA,Kern County,6029,Tehachapi Windplant I,1984,134,8.71,2,3,-118.387611,35.058147
+CA,Kern County,6029,Tehachapi Windplant II,1997,13,8.45,2,3,-118.295288,35.115597
+IL,Cook County,17031,Testa Produce,2011,1,0.75,3,3,-87.653992,41.810692
+MN,Pipestone County,27117,Tholen & Petersen,2005,8,13.2,2,3,-96.101395,44.076591
+ID,Twin Falls County,16083,Thousand Springs,2011,8,12.0,2,3,-114.966805,42.876469
+OR,Morrow County,41049,Threemile Canyon,2009,6,9.9,2,3,-119.937683,45.675896
+OK,Noble County,40103,Thunder Ranch,2017,109,272.5,3,3,-97.419708,36.570225
+ND,Adams County,38001,Thunder Spirit,2015,43,107.5,3,3,-102.565346,46.065971
+OH,Paulding County,39125,Timber Road II,2011,55,99.0,3,3,-84.718193,41.021294
+AK,Nome Census Area,2180,Tin City Long Range Radar Station,2008,1,0.225,3,3,-167.962418,65.568611
+SD,Hand County,46059,Titan I,2009,10,25.0,3,3,-99.12249,44.479992
+IA,Floyd County,19067,Tjaden Farms,2006,1,0.45,3,3,-92.623596,43.15649
+AK,Bethel Census Area,2050,Toksook Bay Expansion,2010,1,0.1,3,3,-165.116974,60.526302
+IA,Worth County,19195,Top of Iowa,2001,89,80.1,3,3,-93.414093,43.334091
+IA,Worth County,19195,Top of Iowa II,2008,40,80.0,3,3,-93.297401,43.340134
+IA,Worth County,19195,Top of Iowa III,2008,18,29.7,2,3,-93.287941,43.360886
+WY,Converse County,56009,Top of the World,2010,44,101.2,3,3,-105.767586,42.905392
+NY,Oswego County,36075,Town of Richland,2010,1,0.1,1,3,-76.036995,43.565189
+TX,Nolan County,48353,Trent Mesa,2001,100,150.0,3,3,-100.186348,32.429127
+MN,Martin County,27091,Trimont Wind,2005,67,100.5,3,3,-94.842194,43.809292
+TX,Archer County,48009,Trinity Hills,2012,90,225.0,3,3,-98.717995,33.404694
+ID,Twin Falls County,16083,Tuana Gulch,2011,7,10.5,3,3,-114.969284,42.833794
+ID,Twin Falls County,16083,Tuana Springs,2010,8,16.8,3,3,-115.01709,42.898594
+WA,Columbia County,53013,Tucannon River,2014,116,266.8,3,3,-118.085587,46.428444
+CA,San Diego County,6073,Tule,2018,57,131.1,3,3,-116.280518,32.767384
+AK,Bethel Census Area,2050,Tuntutuliak,2012,5,0.475,3,3,-162.663376,60.337799
+PA,Lancaster County,42071,Turkey Hill Frey Farm,2011,2,3.2,2,3,-76.456902,39.958691
+TX,Nolan County,48353,Turkey Track,2008,113,169.5,3,3,-100.277596,32.207596
+MI,Tuscola County,26157,Tuscola Bay Wind,2012,67,107.2,3,3,-83.679695,43.51659
+MI,Tuscola County,26157,Tuscola II,2013,59,100.3,3,3,-83.574799,43.51889
+CO,Bent County,8011,Twin Buttes,2007,50,75.0,3,3,-102.848892,37.689396
+CO,Prowers County,8099,Twin Buttes II,2017,30,63.0,3,3,-102.567368,37.772194
+IL,McLean County,17113,Twin Groves I,2007,120,198.0,2,3,-88.647697,40.463593
+IL,McLean County,17113,Twin Groves II,2008,22,36.3,2,3,-88.615196,40.407192
+PA,Somerset County,42111,Twin Ridges,2012,23,47.15,2,3,-78.91021,39.726498
+MT,Wheatland County,30107,Two Dot,2014,6,9.72,3,3,-110.089584,46.453293
+MT,Wheatland County,30107,Two Dot wind farm,2005,7,0.455,2,3,-110.093216,46.444416
+TX,Cooke County,48097,Tyler Bluff,2016,52,125.58,3,3,-97.419106,33.699669
+TX,Randall County,48381,UL Advanced Wind Turbine Test Facility,2018,1,3.57,3,3,-101.789894,34.969849
+AK,Nome Census Area,2180,Unalakleet,2009,6,0.6,2,3,-160.770172,63.910702
+MN,Stevens County,27149,University of MN -- Morris,2005,1,1.65,3,3,-95.877083,45.589645
+OH,Hardin County,39065,Upper Scioto Valley School,2009,2,0.2,2,3,-83.79055,40.689888
+CA,Riverside County,6065,VPI Enterprises Inc.,1985,97,10.435,2,3,-116.56459,33.893696
+MN,Murray County,27101,Valley View,2011,5,10.0,3,3,-96.007294,43.905193
+OR,Umatilla County,41059,Vansycle I,1998,38,25.08,2,3,-118.686089,45.985481
+OR,Umatilla County,41059,Vansycle II,2009,43,98.9,3,3,-118.588486,45.909492
+WA,Kittitas County,53037,Vantage Point,2010,60,90.0,3,3,-120.150688,46.957394
+CA,Contra Costa County,6013,Vasco (repower),2011,34,78.2,3,3,-121.725288,37.794697
+ND,McHenry County,38049,Velva Wind Farm,2006,18,11.88,2,3,-100.907593,48.092293
+IA,Crawford County,19047,Victory,2006,66,105.6,3,3,-95.125694,42.131294
+IA,Tama County,19171,Vienna,2012,45,105.75,3,3,-92.694092,42.152191
+IA,Marshall County,19127,Vienna II,2013,19,44.65,3,3,-92.860497,42.159393
+MN,Murray County,27101,Viking,2003,8,12.0,2,3,-96.008286,43.970428
+RI,Kent County,44003,WED Coventry 2,2016,3,4.5,3,3,-71.703789,41.667122
+RI,Kent County,44003,WED Coventry 5,2017,1,1.5,3,3,-71.699883,41.659916
+RI,Newport County,44005,WED Portsmouth 1,2016,1,1.5,3,3,-71.25132,41.614353
+WI,Kewaunee County,55061,WPS Wind Farm (Casco),1999,14,9.24,3,3,-87.552696,44.606693
+TX,Crosby County,48107,Wake,2016,150,257.25,3,3,-101.07692,33.806061
+CA,Tehama County,6103,Walmart Red Bluff,2012,1,1.5,3,3,-122.193886,40.111195
+IA,Pottawattamie County,19155,Walnut Wind Project,2008,102,153.0,3,3,-95.172195,41.495594
+MN,Mower County,27099,Wapsipinicon Wind,2008,67,100.5,3,3,-92.683495,43.758892
+KS,Coffey County,20031,Waverly,2015,90,189.0,3,3,-95.586441,38.321552
+IA,Bremer County,19017,Waverly III (Skeets 4),2001,1,0.9,3,3,-92.438759,42.762283
+PA,Wayne County,42127,Waymart Wind Farm,2003,43,64.5,3,3,-75.434799,41.603592
+OK,Custer County,40039,Weatherford Wind Energy Center,2005,71,106.5,3,3,-98.75219,35.558594
+OK,Custer County,40039,Weatherford Wind Energy Center Expansion,2005,27,40.5,3,3,-98.669395,35.471195
+TX,Carson County,48065,Wege Wind Farm,2008,8,10.0,3,3,-101.536095,35.341393
+IA,Grundy County,19075,Wellsburg,2014,60,140.76,3,3,-92.985016,42.363434
+SD,Jerauld County,46073,Wessington Springs,2009,34,51.0,3,3,-98.614494,43.986294
+IN,Pulaski County,18131,West Central School Corporation,2012,1,0.9,3,3,-86.885483,41.027817
+MN,Pipestone County,27117,West Pipestone (Maiden Winds),2004,5,8.25,3,3,-96.430389,44.025593
+TX,Culberson County,48109,West Texas Windplant,1995,110,38.5,2,3,-104.766594,31.749895
+KS,Ford County,20057,Western Plains,2017,122,280.6,3,3,-99.68644,37.847385
+MN,Pipestone County,27117,Westridge,2003,18,17.1,3,3,-96.218834,43.980297
+CA,Riverside County,6065,Westwind Association,1985,164,15.286,2,3,-116.569489,33.930294
+NY,Wyoming County,36121,Wethersfield,2000,10,6.6,3,3,-78.243698,42.678791
+OR,Gilliam County,41021,Wheatfield,2009,46,96.6,3,3,-120.324989,45.672493
+OH,Marion County,39101,Whirlpool Corporation - Marion Wind Farm,2017,3,4.5,3,3,-83.182312,40.591534
+TX,Floyd County,48153,Whirlwind Energy Center,2007,26,59.8,3,3,-101.093292,34.143394
+IA,Franklin County,19069,Whispering Willow I,2009,121,199.65,3,3,-93.226692,42.639793
+WA,Klickitat County,53039,White Creek,2007,89,204.7,3,3,-120.369087,45.832596
+IL,McLean County,17113,White Oak,2011,100,150.0,3,3,-89.072197,40.570293
+TX,Webb County,48479,White Tail,2012,57,91.2,3,3,-98.978294,27.494595
+CA,Riverside County,6065,Whitewater Hill,2002,41,61.5,3,3,-116.620285,33.927395
+WA,Kittitas County,53037,Wild Horse I,2006,127,228.6,3,3,-120.214088,47.054394
+WA,Kittitas County,53037,Wild Horse II,2009,22,44.0,3,3,-120.228485,47.069893
+IN,Tipton County,18159,Wildcat I,2012,125,200.0,3,3,-85.874191,40.354591
+NM,Lea County,35025,Wildcat Wind Project,2012,13,27.3,3,3,-103.276192,32.950195
+TX,Oldham County,48359,Wildorado,2007,70,161.0,3,3,-102.331291,35.304295
+MN,Kandiyohi County,27067,Willmar,2009,2,4.0,3,3,-95.006889,45.159393
+OR,Gilliam County,41021,Willow Creek,2009,48,72.0,3,3,-120.003487,45.657795
+OR,Baker County,41001,Willow Spring,2017,5,10.0,3,3,-117.274872,44.381596
+TX,Haskell County,48207,Willow Springs Wind Farm,2017,100,250.0,3,3,-99.638298,33.278641
+ND,Burleigh County,38015,Wilton Wind Energy Center II,2009,33,49.5,3,3,-100.63987,47.114449
+ND,Burleigh County,38015,Wilton Wind Farm,2006,12,18.0,3,3,-100.670288,47.117893
+IA,Adair County,19001,Wind GEM,2015,1,1.85,3,3,-94.339256,41.469986
+CA,Kern County,6029,Windland,1982,59,13.56,2,3,-118.341736,35.093502
+CA,Kern County,6029,Windridge Wind Farm,1984,41,4.1,2,3,-118.394493,35.093586
+CA,Kern County,6029,Windstar,2012,37,74.0,3,3,-118.376091,35.058296
+TX,Archer County,48009,Windthorst-2,2014,28,64.4,3,3,-98.513359,33.506516
+WA,Klickitat County,53039,Windy Point I (Tuolomne Wind Project),2009,42,96.6,3,3,-120.760185,45.740395
+WA,Klickitat County,53039,Windy Point II,2009,88,202.4,3,3,-120.837585,45.731396
+WA,Klickitat County,53039,Windy Point IIa (Windy Flats Extension),2009,26,59.8,3,3,-120.875488,45.703995
+WA,Klickitat County,53039,Windy Point Iia,2009,26,59.8,3,3,-120.885971,45.698986
+IA,Winnebago County,19189,Winnebago I,2008,10,20.0,3,3,-93.766891,43.31879
+MN,Winona County,27169,Winona,2011,2,1.5,3,3,-91.923294,44.115391
+CA,Riverside County,6065,Wintec Palm,1986,22,1.43,2,3,-116.559311,33.912647
+IA,Cass County,19029,Wiota Wind,2012,1,1.6,3,3,-94.876793,41.391495
+MN,Nobles County,27105,Wolf,2006,5,6.25,3,3,-95.779991,43.580994
+TX,Cooke County,48097,Wolf Ridge,2008,75,112.5,3,3,-97.421593,33.708393
+ID,Bingham County,16011,Wolverine Creek,2005,43,64.5,3,3,-111.865089,43.336693
+MN,Pipestone County,27117,Woodstock,1999,17,10.2,3,3,-96.075081,43.991112
+TX,Pecos County,48371,Woodward Mountain I & II,2001,242,159.72,3,3,-102.413589,30.953094
+OH,Crawford County,39033,Wynford Local Schools,2011,2,0.2,3,3,-83.019592,40.822792
+ID,Twin Falls County,16083,Yahoo Creek,2010,14,21.0,3,3,-115.006485,42.756596
+IA,Osceola County,19143,Zachary Ridge,2010,1,2.0,3,3,-95.65477,43.405952
+NY,Ontario County,36069,Zotos,2011,2,3.3,3,3,-76.967598,42.886192
+ND,Adams County,38001,unknown Adams County,2018,11,-9999.0,1,1,-102.524536,46.049023
+CA,Alameda County,6001,unknown Alameda County,2011,6,-9999.0,1,3,-122.251717,37.732388
+CA,Alameda County,6001,unknown Alameda County 2 NEG Micon 60KW,1981,84,7.41,2,3,-121.577385,37.759495
+CA,Alameda County,6001,unknown Alameda County 250KW,1987,1,4.25,3,3,-121.596085,37.696896
+CA,Alameda County,6001,unknown Alameda County 65KW,1981,48,3.185,2,3,-121.562286,37.724094
+CA,Alameda County,6001,unknown Alameda County Bonus,1981,16,33.72,2,3,-121.649689,37.729095
+NE,Antelope County,31003,unknown Antelope County,2018,81,-9999.0,1,1,-97.921089,42.161293
+TX,Armstrong County,48011,unknown Armstrong County,2017,77,-9999.0,1,1,-101.301628,34.929165
+SD,Aurora County,46003,unknown Aurora County,2018,5,-9999.0,1,1,-98.757484,43.7262
+TX,Bailey County,48017,unknown Bailey County,2018,10,-9999.0,1,1,-102.710991,34.061489
+AK,Bethel Census Area,2050,unknown Bethel Census Area,2014,10,-9999.0,1,3,-161.793533,60.794064
+SD,Brule County,46015,unknown Brule County,2018,9,-9999.0,1,1,-98.919075,43.719685
+IL,Bureau County,17011,unknown Bureau County,2018,26,-9999.0,1,1,-89.613472,41.464005
+NE,Butler County,31023,unknown Butler County,2012,1,-9999.0,1,3,-97.111458,41.205013
+OK,Caddo County,40015,unknown Caddo County,-9999,16,-9999.0,1,3,-98.257599,35.367001
+OK,Canadian County,40017,unknown Canadian County,2016,8,-9999.0,1,2,-98.256645,35.395241
+IA,Cerro Gordo County,19033,unknown Cerro Gordo County,-9999,1,-9999.0,1,3,-93.428192,43.072491
+NY,Chautauqua County,36013,unknown Chautauqua County,2018,36,-9999.0,1,1,-79.245026,42.427578
+CO,Cheyenne County,8017,unknown Cheyenne County,2018,9,-9999.0,1,1,-103.148773,39.023155
+KS,Clark County,20025,unknown Clark County,2016,8,-9999.0,1,3,-99.942451,37.361828
+IA,Clay County,19041,unknown Clay County,2018,16,-9999.0,1,1,-95.380608,43.131992
+TX,Collin County,48085,unknown Collins County,2011,2,-9999.0,1,3,-96.61689,33.221596
+TX,Concho County,48095,unknown Concho County,2018,84,-9999.0,1,3,-100.029266,31.11792
+NM,Curry County,35009,unknown Curry County,2018,70,-9999.0,1,1,-103.265625,34.813374
+OH,Darke County,39037,unknown Darke County,2018,2,-9999.0,1,1,-84.608215,40.127693
+MO,DeKalb County,29063,unknown DeKalb County,-9999,22,-9999.0,1,3,-94.483322,39.844395
+OK,Dewey County,40043,unknown Dewey County,2018,21,-9999.0,1,3,-99.359901,36.152996
+NE,Dixon County,31051,unknown Dixon County,2018,90,-9999.0,1,1,-96.872879,42.375641
+KS,Doniphan County,20043,unknown Doniphan County,2014,1,-9999.0,1,3,-94.942856,39.783024
+TX,El Paso County,48141,unknown El Paso County,2015,2,-9999.0,3,3,-106.40567,31.788097
+CO,Elbert County,8039,unknown Elbert County,2018,189,-9999.0,1,1,-103.952133,39.122021
+OK,Ellis County,40045,unknown Ellis County,2018,9,-9999.0,1,3,-99.401657,36.131611
+NY,Erie County,36029,unknown Erie County,2016,2,-9999.0,3,3,-78.931122,42.977005
+FL,Flagler County,12035,unknown Flagler County,2013,1,-9999.0,1,3,-81.459099,29.484995
+MI,Gratiot County,26057,unknown Gratiot County,2018,10,-9999.0,1,1,-84.612991,43.453888
+TX,Gray County,48179,unknown Gray County,2016,21,-9999.0,1,3,-100.92601,35.207813
+IA,Greene County,19073,unknown Greene County,2018,61,-9999.0,1,1,-94.200424,42.078785
+IA,Guthrie County,19077,unknown Guthrie County 2,2013,1,-9999.0,1,3,-94.425591,41.703194
+TX,Harris County,48201,unknown Harris County,2015,2,-9999.0,1,3,-95.176208,29.627926
+HI,Hawaii County,15001,unknown Hawaii County,2013,1,-9999.0,1,3,-155.804489,20.240572
+MI,Isabella County,26073,unknown Isabella County,2018,2,-9999.0,1,1,-84.63945,43.525803
+MO,Johnson County,29101,unknown Johnson County 3,2010,1,-9999.0,1,3,-93.793892,38.783295
+TX,Kenedy County,48261,unknown Kenedy County,2018,5,-9999.0,1,1,-97.66468,26.996075
+TX,Kent County,48263,unknown Kent County,2012,3,-9999.0,1,3,-100.57338,33.25729
+CA,Kern County,6029,unknown Kern County,-9999,3,-9999.0,1,3,-118.315186,35.066345
+CO,Kit Carson County,8063,unknown Kit Carson County,2018,27,-9999.0,1,1,-103.132965,39.093452
+AK,Northwest Arctic Borough,2188,unknown Kotzebue Wind Project,2003,2,-9999.0,1,3,-162.557327,66.834328
+AK,Lake and Peninsula Borough,2164,unknown Lake and Peninsula Borough,2010,2,-9999.0,1,3,-154.764297,59.446339
+TX,Lamb County,48279,unknown Lamb County,2018,8,-9999.0,1,1,-102.588951,34.041809
+NM,Lea County,35025,unknown Lea County,-9999,2,-9999.0,1,3,-103.192581,32.758369
+NY,Lewis County,36049,unknown Lewis County,2018,40,-9999.0,1,1,-75.666458,43.910229
+MT,Lewis and Clark County,30049,unknown Lewis and Clark County,2013,1,-9999.0,1,3,-111.99411,46.599632
+CO,Lincoln County,8073,unknown Lincoln County,2018,64,-9999.0,1,1,-103.233231,39.072327
+OH,Lorain County,39093,unknown Lorain County,2015,2,-9999.0,1,3,-82.041527,41.340584
+TX,Lubbock County,48303,unknown Lubbock County,-9999,5,-9999.0,1,3,-102.048637,33.607967
+TX,Lynn County,48305,unknown Lynn County,2018,54,-9999.0,1,2,-101.674187,33.140469
+NE,Madison County,31119,unknown Madison County,2011,1,-9999.0,1,3,-97.388779,42.05138
+KS,Marion County,20115,unknown Marion County,2018,89,-9999.0,1,1,-97.082184,38.568977
+HI,Maui County,15009,unknown Maui County,2015,3,-9999.0,1,3,-156.423553,20.859423
+ND,McHenry County,38049,unknown McHenry County,2018,4,-9999.0,1,1,-100.883026,47.859558
+ND,Morton County,38059,unknown Morton County,2017,2,-9999.0,1,3,-101.2229,46.96769
+NY,Niagara County,36063,unknown Niagara County,2017,1,-9999.0,1,3,-78.493965,43.282898
+TX,Nolan County,48353,unknown Nolan County,2018,7,-9999.0,1,1,-100.19104,32.446075
+AK,Nome Census Area,2180,unknown Nome Census Area,2015,1,-9999.0,1,3,-166.059753,66.258034
+TX,Nueces County,48355,unknown Nueces County,2012,1,-9999.0,1,3,-97.486504,27.78853
+TX,Oldham County,48359,unknown Oldham County,2018,3,-9999.0,1,1,-102.361694,35.216751
+NY,Oneida County,36065,unknown Oneida County,2017,2,-9999.0,1,3,-75.448891,42.974724
+OH,Paulding County,39125,unknown Paulding County,2018,42,-9999.0,1,1,-84.540642,41.028763
+TX,Pecos County,48371,unknown Pecos County,-9999,13,-9999.0,1,1,-102.113564,30.922174
+MN,Pipestone County,27117,unknown Pipestone County,2018,39,-9999.0,1,1,-96.16069,44.067951
+IA,Polk County,19153,unknown Polk County,2016,2,-9999.0,1,3,-93.547928,41.792606
+IA,Poweshiek County,19157,unknown Poweshiek County,2018,30,-9999.0,1,1,-92.453232,41.579952
+NM,Quay County,35037,unknown Quay County,2018,2,-9999.0,1,1,-103.956367,34.618336
+MN,Red Lake County,27125,unknown Red Lake County,2017,1,-9999.0,1,1,-96.314957,47.871574
+CA,Riverside County,6065,unknown San Gorgonio Pass 1,1981,145,-9999.0,1,3,-116.575188,33.890396
+CA,Riverside County,6065,unknown San Gorgonio Pass 4,1985,37,-9999.0,1,3,-116.618134,33.93515
+CA,Riverside County,6065,unknown San Gorgonio Pass 6,1996,6,-9999.0,1,3,-116.585686,33.890194
+CA,Riverside County,6065,unknown San Gorgonio Pass 7,1996,13,-9999.0,1,3,-116.571289,33.926994
+NE,Scotts Bluff County,31157,unknown Scotts Bluff County,2010,1,-9999.0,1,3,-103.681992,41.843891
+CA,Solano County,6095,unknown Solano County,1990,7,-9999.0,1,3,-121.813087,38.077194
+MT,Stillwater County,30095,unknown Stillwater County,2018,17,-9999.0,1,1,-109.527351,45.829777
+TX,Taylor County,48441,unknown Taylor County,2005,1,-9999.0,1,3,-100.054169,32.214169
+CA,Kern County,6029,unknown Tehachapi Wind Resource Area 1,1982,1831,-9999.0,1,3,-118.388985,35.063896
+CA,Kern County,6029,unknown Tehachapi Wind Resource Area 3,2005,59,-9999.0,1,3,-118.279289,35.050896
+NM,Union County,35059,unknown Union County,2013,2,-9999.0,1,3,-103.132591,36.464596
+UT,Utah County,49049,unknown Utah County,-9999,3,-9999.0,1,3,-111.589981,40.083641
+WA,Walla Walla County,53071,unknown Walla Walla County,2014,3,-9999.0,1,3,-118.272552,46.07864
+NV,Washoe County,32031,unknown Washoe County,2014,2,-9999.0,1,3,-119.911674,39.669216
+WA,Whatcom County,53073,unknown Whatcom County,2010,1,-9999.0,1,3,-122.525688,48.785095
+OK,Woodward County,40153,unknown Woodward County,2018,50,-9999.0,1,1,-99.243851,36.176292
+CA,Yolo County,6113,unknown Yolo County,2014,1,-9999.0,1,3,-121.861214,38.580673
+CO,Yuma County,8125,unknown Yuma County,2016,2,-9999.0,1,3,-102.716949,40.037548
